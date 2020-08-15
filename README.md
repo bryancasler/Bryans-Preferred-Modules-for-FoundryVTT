@@ -26,6 +26,7 @@ This is a cultivated list of Foundry Modules that play nicely together without b
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press CTRL+Space to quickly search for any entity by name via a handy auto-complete widget.
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
 - [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized.
+  - Aug 15th: Broken until [this issue](https://github.com/VanceCole/vance-sidebar-resizer/pull/1) is resolved.
 
 ## Quality of Life Improvements For GameMasters
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
