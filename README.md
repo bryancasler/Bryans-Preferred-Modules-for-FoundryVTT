@@ -1,6 +1,6 @@
 
 
-![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-FoundryVTT-Modules/master/Bryan's%20Preferred%20Modules%20for%20Foundry.png)
+![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT.png)
 
 <!-- + Bryan's Preferred FoundryVTT Modules + -->
 
