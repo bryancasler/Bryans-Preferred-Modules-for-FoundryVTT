@@ -106,5 +106,5 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Token Mold](https://github.com/Moerill/token-mold) - For minting tokens that auto append a counter or descriptor to the tokens name. Also can handle automatic token scaling. - Retired 2020 Aug 09 - Great concept but limited utility at the moment. Retiring to reduce UI clutter, will revisit in the future.
 
 ## Miscellaneous
-- [Plugin usage statistics from Forge](https://i.imgur.com/xRVVed1.png)
+- [Module usage statistics from The Forge - July 2020](https://i.imgur.com/xRVVed1.png)
 - [Official FoundryVTT Sub-Reddit Module Wiki](https://www.reddit.com/r/FoundryVTT/wiki/index/modules)
