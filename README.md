@@ -1,7 +1,7 @@
 
 # Bryan's Preferred Foundry Modules
 
-This is a cultivated list of Foundry Modules that play nicely together without bogging down the game causing lag or an overwhelming amount of UI options. The target for this set up is D&D 5e and Pathfinder 2e, your mileage may vary.
+This is a cultivated list of Foundry Modules that play nicely together without bogging down the game by creating an overwhelming amount of options or causing lag, 60fps or bust! Together these set up a solid foundation for any D&D 5e and Pathfinder 2e game.
 
 ## Core Settings
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
