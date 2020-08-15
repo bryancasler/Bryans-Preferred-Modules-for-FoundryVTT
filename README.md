@@ -1,7 +1,7 @@
 
 # Bryan's Preferred Foundry Modules
 
-Cultivated list of Foundry Modules that play nicely together without creating an overwhelming amount of UI options or causing noticable FPS drops. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
+My personally cultivated list of Foundry Modules that play nicely together without creating an overwhelming amount of UI options or causing noticable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
 ## Core Settings
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
