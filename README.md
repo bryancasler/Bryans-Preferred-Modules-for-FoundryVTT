@@ -100,6 +100,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - Group Initiative - Suggested by LorduFreeman on The Foundry Discord
 - Quick Insert - Suggested by LorduFreeman on The Foundry Discord
 - Permission Viewer - Suggested by KaKaRoTo on The Forge Discord
+- [DNDBeyond Character Sheet](https://foundryvtt.com/packages/dndbeyond-character-sheet/)
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
