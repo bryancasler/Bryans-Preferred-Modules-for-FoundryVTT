@@ -5,6 +5,7 @@ This is a cultivated list of Foundry Modules that play nicely together without b
 
 ## Core Settings
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
+  - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
 
 ## Quality of Life Improvements For Everyone
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat.
