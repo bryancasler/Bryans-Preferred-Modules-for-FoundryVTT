@@ -95,6 +95,9 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects.
 - [Grid Scaler](https://github.com/UberV/scaleGrid) - Adds tool to help to set the Foundry grid on the background image
 - [Expander](https://github.com/Sky-Captain-13/foundry/tree/master/expander) - Expands the chat window when you click on the chat icon instead of only by clicking on the arrow at the bottom
+- Darker Vision for 5e - Suggested by LorduFreeman on The Foundry Discord
+- Group Initiative - Suggested by LorduFreeman on The Foundry Discord
+- Quick Insert - Suggested by LorduFreeman on The Foundry Discord
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
