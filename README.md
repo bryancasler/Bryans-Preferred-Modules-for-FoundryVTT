@@ -1,5 +1,8 @@
 
-# Bryan's Preferred FoundryVTT Modules
+
+![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-FoundryVTT-Modules/master/Bryan's%20Preferred%20Modules%20for%20Foundry.png)
+
+<!-- + Bryan's Preferred FoundryVTT Modules + -->
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
