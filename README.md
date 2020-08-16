@@ -93,10 +93,10 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects.
 - [Grid Scaler](https://github.com/UberV/scaleGrid) - Adds tool to help to set the Foundry grid on the background image
 - [Expander](https://github.com/Sky-Captain-13/foundry/tree/master/expander) - Expands the chat window when you click on the chat icon instead of only by clicking on the arrow at the bottom
-- Darker Vision for 5e - Suggested by LorduFreeman on The Foundry Discord
-- Group Initiative - Suggested by LorduFreeman on The Foundry Discord
-- Quick Insert - Suggested by LorduFreeman on The Foundry Discord
-- Permission Viewer - Suggested by KaKaRoTo on The Forge Discord
+- [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Suggested by LorduFreeman on The Foundry Discord
+- [Group Initiative](https://foundryvtt.com/packages/group-initiative/) - Suggested by LorduFreeman on The Foundry Discord
+- [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Suggested by LorduFreeman on The Foundry Discord
+- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Suggested by KaKaRoTo on The Forge Discord
 - [DNDBeyond Character Sheet](https://foundryvtt.com/packages/dndbeyond-character-sheet/) - Replacement of a character sheet with a version more similar in style to that of D&D Beyond's.
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Apply damage/healing to all selected tokens.
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests.
