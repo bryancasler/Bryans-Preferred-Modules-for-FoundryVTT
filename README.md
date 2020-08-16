@@ -104,6 +104,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Apply damage/healing to all selected tokens.
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests.
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros.
+- [Foundry VTT Tables Repository](https://github.com/foundry-vtt-community/tables) - Foundry community-contributed tables.
 - [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification.
 
 ## Retired Modules
@@ -112,7 +113,51 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Turn Marker](https://github.com/Brunhine/TurnMarker) - Adds an image under a token who is currently active in the combat tracker. - Retired 2020 Aug 09 - Turn marking is handled by Combat Ready
 - [Token Mold](https://github.com/Moerill/token-mold) - For minting tokens that auto append a counter or descriptor to the tokens name. Also can handle automatic token scaling. - Retired 2020 Aug 09 - Great concept but limited utility at the moment. Retiring to reduce UI clutter, will revisit in the future.
 
-## Miscellaneous
+## Free Map-Pack Resources
+Not tested, shared for ease of reference.
+- [Forgotten Adventures](https://www.forgotten-adventures.net/live-gallery/)
+- [Fantastic Maps](http://www.fantasticmaps.com/free-stuff/)
+
+## Free Tokens Resources
+Not tested, shared for ease of reference.
+- [Forgotten Adventures](https://www.forgotten-adventures.net/live-gallery/)
+- [Devin Nights Token Packs 1-20](https://immortalnights.com/tokensite/?product=all-free-tokens-in-one-file)
+
+## Free Sound and Music Resources
+Not tested, shared for ease of reference.
+- [Gameaudio GDC Bundle](https://foundry-vtt-community.github.io/wiki/Community-Media/#gameaudiogdc-bundle)
+
+## Free Icon Resources
+Not tested, shared for ease of reference.
+- [Game-icons.net](https://foundry-vtt-community.github.io/wiki/Community-Media/#game-iconsnet)
+- [Bundle WOW-Icons](https://foundry-vtt-community.github.io/wiki/Community-Media/#bundle-wow-icons)
+
+## Creators
+Not endoring, shared for ease of reference.
+- [2-Minute Tabletop - Patreon](https://www.patreon.com/2minutetabletop)
+- [Afternoonmaps - Patreon](https://www.patreon.com/afternoonmaps/posts)
+- [Caeora - Patreon](https://www.patreon.com/caeora)
+- [Cze and Peku - Patreon](https://www.patreon.com/czepeku/posts)
+- [Dungeon Mapster - Patreon](https://www.patreon.com/dungeonmapster/posts)
+- [Eightfold - Patreon](https://www.patreon.com/EightfoldPaper/posts)
+- [Forgotten Adventures - Patreon](https://www.patreon.com/forgottenadventures)
+- [Gabriel Pickard - Roll20](https://marketplace.roll20.net/browse/publisher/64/gabriel-pickard)
+- [Heroic Maps - Patreon](https://www.patreon.com/heroicmaps/posts)
+- [Jesper Nilsson Cyren - Patreon](https://www.patreon.com/CyrensMaps/posts)
+- [Maphammer - Patreon](https://www.patreon.com/maphammer/posts)
+- [Neutral Party - Patreon](https://www.patreon.com/neutralparty/posts)
+- [PogS Props - Patreon](https://www.patreon.com/PogS_Props)
+- [The Drafting Table - Patreon](https://www.patreon.com/draftingtable)
+- [Animated Dungeon Maps - Patreon](https://www.patreon.com/animatedmaps/posts)
+- [Dynamic Dungeons - Patreon](https://www.patreon.com/dynamicdungeons/overview)
+- [Living Realms - Patreon](https://www.patreon.com/LivingRealms/posts)
+- [Adventure Music - Patreon](https://www.patreon.com/adventuremusicjr)
+- [Michael Ghelfi - Patreon](https://www.patreon.com/MichaelGhelfi)
+- [Music d20 - Patreon](https://www.patreon.com/musicd20)
+- [Sword Coast Soundscapes - Patreon](https://www.patreon.com/swordcoastsoundscapes)
+- [Vindsvept - Patreon](https://www.patreon.com/Vindsvept)
+
+## Miscellaneous Resources
 - [Module usage statistics from The Forge - July 2020](https://i.imgur.com/xRVVed1.png)
 - [Official FoundryVTT Sub-Reddit Module Wiki](https://www.reddit.com/r/FoundryVTT/wiki/index/modules)
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
