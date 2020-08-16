@@ -104,7 +104,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Apply damage/healing to all selected tokens.
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests.
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros
-
+- [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification.
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
