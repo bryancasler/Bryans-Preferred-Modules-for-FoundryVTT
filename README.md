@@ -130,7 +130,7 @@ Not tested, shared for ease of reference.
 - [Bundle WOW-Icons](https://foundry-vtt-community.github.io/wiki/Community-Media/#bundle-wow-icons)
 
 ## Creators
-Not endoring, shared for ease of reference.
+Not endorsed, shared for ease of reference.
 - [2-Minute Tabletop - Patreon](https://www.patreon.com/2minutetabletop) - 2-Minute Tabletop is creating Hand-Drawn Maps & Assets for D&D
 - [Afternoonmaps - Patreon](https://www.patreon.com/afternoonmaps/posts) - Afternoon Maps is creating RPG and DnD battlemaps
 - [Caeora - Patreon](https://www.patreon.com/caeora) - “Caeora is creating Tabletop Maps & Tokens
