@@ -79,9 +79,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
 - [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
 
-
-
-## Under Consideration
+## Modules Under Consideration
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - D&D 5e Only. It populates an action bar for the token you have selected.
 - [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Overhauls most rolls on the 5th edition character sheet, and provides a way to customize roll messages per-item.
 - [Community Tables](https://foundryvtt.com/packages/foundry_community_tables/) - A collection of Tables added by the FoundryVTT Community.
