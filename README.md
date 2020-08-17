@@ -115,6 +115,16 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit
 - [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit
 - [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Suggested by azath0ught on the FoundryVTT Subreddit
+- [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit
+- [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit
+- [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit
+- [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) Better ambient lighting - Suggested by jniezink on the FoundryVTT Subreddit
+- [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit
+- [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Sheet To Token](https://foundryvtt.com/packages/sheet-to-token/) - Automatically updates an actor's Prototype Token to match its actor image when updated. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and RollTables to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
@@ -170,3 +180,4 @@ Not endorsed, shared for ease of reference.
 - [Module usage statistics from The Forge - July 2020](https://i.imgur.com/xRVVed1.png)
 - [Official FoundryVTT Sub-Reddit Module Wiki](https://www.reddit.com/r/FoundryVTT/wiki/index/modules)
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
+- [Intro to Dynamic (Character Stat) Effects][https://www.reddit.com/r/FoundryVTT/comments/ibfphc/a_very_simple_intro_to_dynamic_effects/]
