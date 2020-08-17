@@ -112,6 +112,9 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys)
 - [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox)
 - [Kobold Press OGL](http://kpogl.wikidot.com/) - Content linked to on page
+- [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit
+- [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit
+- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Suggested by azath0ught on the FoundryVTT Subreddit
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
