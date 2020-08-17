@@ -180,4 +180,4 @@ Not endorsed, shared for ease of reference.
 - [Module usage statistics from The Forge - July 2020](https://i.imgur.com/xRVVed1.png)
 - [Official FoundryVTT Sub-Reddit Module Wiki](https://www.reddit.com/r/FoundryVTT/wiki/index/modules)
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
-- [Intro to Dynamic (Character Stat) Effects][https://www.reddit.com/r/FoundryVTT/comments/ibfphc/a_very_simple_intro_to_dynamic_effects/]
+- [Intro to Dynamic (Character Stat) Effects](https://www.reddit.com/r/FoundryVTT/comments/ibfphc/a_very_simple_intro_to_dynamic_effects/)
