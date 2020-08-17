@@ -125,6 +125,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and RollTables to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
