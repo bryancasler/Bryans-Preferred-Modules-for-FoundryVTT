@@ -78,7 +78,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
 - [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
 
-## Modules Under Consideration
+## Modules Marked for Review and Consideration
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - D&D 5e Only. It populates an action bar for the token you have selected.
 - [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Overhauls most rolls on the 5th edition character sheet, and provides a way to customize roll messages per-item.
 - [Community Tables](https://foundryvtt.com/packages/foundry_community_tables/) - A collection of Tables added by the FoundryVTT Community.
@@ -103,6 +103,15 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros.
 - [Foundry VTT Tables Repository](https://github.com/foundry-vtt-community/tables) - Foundry community-contributed tables.
 - [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification.
+- [Foundry VTT Modules for DnD 5E](https://github.com/foundry-vtt-community/modules/tree/master/Foundry%20VTT%20Modules%20for%20DnD%205E) - Marked for review, seems outdated
+- [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e)
+- [Better Rolls for 5e](https://github.com/RedReign/FoundryVTT-BetterRolls5e)
+- [D&D 5e Conditions](https://github.com/trdischat/conditions5e)
+- [D&D5E Dark Mode](https://github.com/Stryxin/dnd5edark-foundryvtt)
+- [Background Volume](https://github.com/mtvjr/background-volume)
+- [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys)
+- [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox)
+- [Kobold Press OGL](http://kpogl.wikidot.com/) - Content linked to on page
 
 ## Retired Modules
 These modules are no longer used as they’ve become redundant to features provided by other modules, or they caused other issues (e.g. lag).
