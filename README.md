@@ -23,6 +23,9 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Shadows Quality: Off
   - Advanced Lighting: Off
   - Animation Speed: 2x
+- [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
+  - Configure Settings > Module Settings > Fix CPU on token movement
+  - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows.
@@ -77,28 +80,33 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) - What could this be?
+  - Cog > Actors > Enable Sheet Popout Button
+  - Cog > Actors > Auto-Roll Multiattacks
+  - Cog > Tokens > Display missing Health
+  - Cog > UI > Compact Header Buttons
+  - Cog > UI > Compact Scenes Directory
+  - Cog > UI > Compact Actors Directory
+  - Cog > UI > Compact Items Directory 
+  - Cog > UI > Compact Journal Entries 
+  - Cog > UI > Compact Rollable Tables 
+  - Cog > UI > Name Browser Tab After Active Scene
+  - Cog > UI > Display Detected Backend
+  - Cog > UI > Fast Animations
+  - Cog > UI > Fix Esc Key
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected.
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
-
+- [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
+  - Configure Settings > Module Settings > GM Uses Inventory
+  
 ## Pathfinder 2e (P2E) Specific
 - [Pathfinder 2e Quick Rolls](https://gitlab.com/mcarthur.alford/pf2qr) - Adds features to speed up rolling in chat.
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
 - [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
 - [Virtual Tabletop Assets - Iconizer](https://www.vttassets.com/assets/vtta-iconizer) - Whenever an item is created or updated, Iconizer looks up its name in its dictionaries. If it finds an entry, he will use the icon references there to update the image of that item.
-  - Helpful for Pathfunder 2, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
+  - Helpful for Pathfinder 2, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
 
-## Modules In Review
-- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by KaKaRoTo on The Forge Discord and jniezink on the FoundryVTT Subreddit
-- [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros.
-- [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit
-- [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit
-- [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit
-- [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
-
-## Modules Pending Review
+## Modules Pending their First Review
 - None at the moment!
 
 ## Modules Scheduled for Re-Review at a Later Date
@@ -107,11 +115,13 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Grid Scaler](https://github.com/UberV/scaleGrid) - Adds tool to help to set the Foundry grid on the background image - Review 2020 Sep 06 - Seems super helpful, but a number of issues exist. Defintely going to revist.
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests. - Review 2020 Sep 06 - This looks incredible but a number of outstanding issues has me putting this aside to revisit at a later date.
 - [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification. - Review 2020 Sep 06 - Love everything about this but don't have a need for it. Going to place this for re-review at a later time.
-- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Token toolstips and Quality of Life enhancements - Review 2020 Sep 06 - Tons of usefull enhancements but a bit overkill. Some of the tooltip options that it can show seem unique to this module and I haven't seeen them elsewhere. There is an open issue to split the module so it's more granular, hopefully that happens.
+- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Token toolstips and Quality of Life enhancements - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - Tons of usefull enhancements but a bit overkill. Some of the tooltip options that it can show seem unique to this module and I haven't seeen them elsewhere. There is an open issue to split the module so it's more granular, hopefully that happens.
 - [Group Initiative](https://foundryvtt.com/packages/group-initiative/) - Suggested by LorduFreeman on The Foundry Discord - Review 2020 Sep 06 - Great idea but seems to be broken (https://github.com/tonifisler/foundry-group-initiative/issues/4).
 - [Sheet To Token](https://foundryvtt.com/packages/sheet-to-token/) - Automatically updates an actor's Prototype Token to match its actor image when updated. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Fantastic idea, but haven't actually needed it in practice so far.
-- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Suggested by azath0ught on the FoundryVTT Subreddit
-
+- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by KaKaRoTo on The Forge Discord and jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Love it, but the UI is so obtuse, I can't remember what each shape means and so it's not actually helpful.
+- [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - In concept I like it, but has the potential for too many mistakes.
+- [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Looks awesome for a big epic game, but seems like overkill for the ones I'm running. Will revisit at a later date.
+- [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros. - Review 2020 Sep 06 - Was looking into this to help out with thing like "Barbarian Rage" but I'd rather just wait at the moment and see if these start to sneak their way in without the need for Macro's.
 
 ## Modules Reviewed or Retired, and not in active use
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
@@ -143,6 +153,8 @@ These modules are no longer used as they’ve become redundant to features provi
 - [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is an excellent idea, but some UX leaves me wanting. Hopefully something similar gets built out in FoundryVTT core.
 - [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not a bad idea, but haven't had the need for it.
 - [ConditionIconHoverZoom](https://github.com/Sparkasaurusmex/ConditionIconHoverZoom) - Makes condition icons more legible by increasing their size. Also enlarges and makes them opaque on hover. - Review 2020 Sep 06 - I thought I wanted this when I first saw it, but I don't really need it.
+- [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not neccisary. I can double click on the title bar of a sheet / pop-up to minimize it.
+- [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
 
 ## Free Map-Pack Resources
 Not tested, shared for ease of reference.
@@ -163,7 +175,7 @@ Not tested, shared for ease of reference.
 - [Game-icons.net](https://foundry-vtt-community.github.io/wiki/Community-Media/#game-iconsnet)
 - [Bundle WOW-Icons](https://foundry-vtt-community.github.io/wiki/Community-Media/#bundle-wow-icons)
 
-## Creators
+## Content Creators
 Not endorsed, shared for ease of reference.
 - [2-Minute Tabletop - Patreon](https://www.patreon.com/2minutetabletop) - 2-Minute Tabletop is creating Hand-Drawn Maps & Assets for D&D
 - [Afternoonmaps - Patreon](https://www.patreon.com/afternoonmaps/posts) - Afternoon Maps is creating RPG and DnD battlemaps
