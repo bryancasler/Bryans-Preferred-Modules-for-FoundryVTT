@@ -43,7 +43,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
 - [Trigger Happy](https://foundryvtt.com/packages/trigger-happy/) - Create triggers for your players to spring traps or anything you can think of.
 - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
-  - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but no the version of them already in the sceene.
+  - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
 
 ## General Ambiance
 - [Ambient Doors](https://github.com/EndlesNights/ambientdoors) - Customized sounds effects that trigger for all users when interacting with doors.
