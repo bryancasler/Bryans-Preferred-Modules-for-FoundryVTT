@@ -11,8 +11,6 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
 
 ## Quality of Life Improvements For Everyone
-- [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat.
-  - Need to check to see if this Module inserts images as base64 encoded data. If so, this could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. It's possible this behavior could have been resolved or caused by another Module. - Flagged by an Anonymous user on The Forge Discord
 - [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
 - [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/) - Adds a nested folder structure, and option for hiding entries, for your compendiums
 - [Cursor Zoom](https://gitlab.com/foundry-azzurite/cursor-hider) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
@@ -28,14 +26,11 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
-- [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows.
-- [Popout Resizer](https://github.com/Cardagon/popout-resizer) - Give the users the ability to resize their pop-out windows from the side toolbar.
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
 in most parts of FoundryVTT. Find actors, items, spells etc. and insert them wherever you need them right now - the map, character sheets, roll tables, journals, you name it. - Suggested by LorduFreeman on The Foundry Discord
   - The default short key (control + space) must be changed as it's already in use by Search Anywhere. This can be done in the module's settings.
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget.
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
-- [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized.
 
 ## Quality of Life Improvements For GameMasters
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
@@ -45,15 +40,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
 - [Group Roll Checks and Saves](https://github.com/trdischat/grouproll) - Facilitates D&D 5e and Pathfinder 2e Group Rolls.
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
-- [The Furnace](https://github.com/kakaroto/fvtt-module-furnace) - Provides a number of enhancements.
-  - Advanced Macros: Off
-  - Advanced Drawing Tools: Off
-  - Improve the Playlists UI: Off
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
 - [Trigger Happy](https://foundryvtt.com/packages/trigger-happy/) - Create triggers for your players to spring traps or anything you can think of.
-- [Virtual Tabletop Assets - Party Overview](https://www.vttassets.com/assets/vtta-party) - Adds a party overview window, granting you information about some vital stats quickly and without hassle.
-  - Grant Players access to the overview?: Off
-  - Enable tooltips?: Off - Similar information is already provided by Token Info Icons
 - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but no the version of them already in the sceene.
 
@@ -103,8 +91,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Pathfinder 2e Quick Rolls](https://gitlab.com/mcarthur.alford/pf2qr) - Adds features to speed up rolling in chat.
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
 - [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
-- [Virtual Tabletop Assets - Iconizer](https://www.vttassets.com/assets/vtta-iconizer) - Whenever an item is created or updated, Iconizer looks up its name in its dictionaries. If it finds an entry, he will use the icon references there to update the image of that item.
-  - Helpful for Pathfinder 2, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
+- [Virtual Tabletop Assets - Iconizer](https://www.vttassets.com/assets/vtta-iconizer) - Whenever an item is created or updated, Iconizer looks up its name in its dictionaries. If it finds an entry, it will use the icon references there to update the image of that item.
+  - Could be helpful for Pathfinder 2e, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
 
 ## Modules Pending their First Review
 - None at the moment!
@@ -122,6 +110,12 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - In concept I like it, but has the potential for too many mistakes.
 - [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Looks awesome for a big epic game, but seems like overkill for the ones I'm running. Will revisit at a later date.
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros. - Review 2020 Sep 06 - Was looking into this to help out with thing like "Barbarian Rage" but I'd rather just wait at the moment and see if these start to sneak their way in without the need for Macro's.
+- [Popout Resizer](https://github.com/Cardagon/popout-resizer) - Give the users the ability to resize their pop-out windows from the side toolbar. - Retired 2020 Sep 06 - Haven't needed this, but might as things continue to get more complicated. Setting this for Re-Review.
+- [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
+  - This Module inserts images as base64 encoded data which can grow the chat log to the point it can start to impact gameplay (https://github.com/bmarian/chat-images/issues/7). This could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. - Flagged by an Anonymous user on The Forge Discord
+- [Virtual Tabletop Assets - Party Overview](https://www.vttassets.com/assets/vtta-party) - Adds a party overview window, granting you information about some vital stats quickly and without hassle. - Retired 2020 Sep 06 - I don't like to know everything about the part, but I'm willing to revisit at a later date.
+  - Grant Players access to the overview?: Off
+  - Enable tooltips?: Off - Similar information is already provided by Token Info Icons
 
 ## Modules Reviewed or Retired, and not in active use
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
@@ -155,6 +149,11 @@ These modules are no longer used as they’ve become redundant to features provi
 - [ConditionIconHoverZoom](https://github.com/Sparkasaurusmex/ConditionIconHoverZoom) - Makes condition icons more legible by increasing their size. Also enlarges and makes them opaque on hover. - Review 2020 Sep 06 - I thought I wanted this when I first saw it, but I don't really need it.
 - [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not neccisary. I can double click on the title bar of a sheet / pop-up to minimize it.
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
+  - Advanced Macros: Off
+  - Advanced Drawing Tools: Off
+  - Improve the Playlists UI: Off
+- [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
+- [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized. - Retired 2020 Sep 06 - Nothing wrong with this, just ended up never needing it.
 
 ## Free Map-Pack Resources
 Not tested, shared for ease of reference.
