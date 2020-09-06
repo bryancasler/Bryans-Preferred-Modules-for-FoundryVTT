@@ -13,6 +13,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 ## Quality of Life Improvements For Everyone
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat.
   - Need to check to see if this Module inserts images as base64 encoded data. If so, this could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. It's possible this behavior could have been resolved or caused by another Module. - Flagged by an Anonymous user on The Forge Discord
+- [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/) - Adds a nested folder structure, and option for hiding entries, for your compendiums
 - [Cursor Zoom](https://gitlab.com/foundry-azzurite/cursor-hider) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
