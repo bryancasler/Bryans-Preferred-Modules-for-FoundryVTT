@@ -24,6 +24,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Advanced Lighting: Off
   - Animation Speed: 2x
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
+- [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows.
 - [Popout Resizer](https://github.com/Cardagon/popout-resizer) - Give the users the ability to resize their pop-out windows from the side toolbar.
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
@@ -35,10 +36,12 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 
 ## Quality of Life Improvements For GameMasters
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
+- [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [GM Scene Background](https://github.com/death-save/gm-bg) - Allows GMs to set a GM-only background image.
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
 - [Group Roll Checks and Saves](https://github.com/trdischat/grouproll) - Facilitates D&D 5e and Pathfinder 2e Group Rolls.
+- [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [The Furnace](https://github.com/kakaroto/fvtt-module-furnace) - Provides a number of enhancements.
   - Advanced Macros: Off
   - Advanced Drawing Tools: Off
@@ -53,7 +56,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 
 ## General Ambiance
 - [Ambient Doors](https://github.com/EndlesNights/ambientdoors) - Customized sounds effects that trigger for all users when interacting with doors.
-- [Dancing Lights](https://github.com/BlitzKraig/fvtt-DancingLights) - Ambient Light & Token Light toolkit
+- [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) - Better ambient lighting & Token light toolkit - Suggested by jniezink on the FoundryVTT Subreddit
   - This feature will be coming soon to FoundryVTT 7 core. Once it is, this module can be removed.
 - [Maestro](https://github.com/death-save/maestro) - Adds player hype tracks, item tracks, combat tracks, and more.
   - Enable Hype Track: On
@@ -86,40 +89,29 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Helpful for Pathfunder 2, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
 
 ## Modules In Review
-- [Group Initiative](https://foundryvtt.com/packages/group-initiative/) - Suggested by LorduFreeman on The Foundry Discord
-- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Suggested by KaKaRoTo on The Forge Discord
+- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by KaKaRoTo on The Forge Discord and jniezink on the FoundryVTT Subreddit
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros.
-
-## Modules Pending Review
-
-
-- [Background Volume](https://github.com/mtvjr/background-volume)
-- [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys)
-- [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox)
-- [Kobold Press OGL](http://kpogl.wikidot.com/) - Content linked to on page
 - [Escape Window](https://foundryvtt.com/packages/escape-window/) - Suggested by azath0ught on the FoundryVTT Subreddit
 - [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit
-- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Suggested by azath0ught on the FoundryVTT Subreddit
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit
-- [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit
-- [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit
-- [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) Better ambient lighting - Suggested by jniezink on the FoundryVTT Subreddit
 - [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit
-- [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Sheet To Token](https://foundryvtt.com/packages/sheet-to-token/) - Automatically updates an actor's Prototype Token to match its actor image when updated. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
-- [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
-- [ConditionIconHoverZoom](https://github.com/Sparkasaurusmex/ConditionIconHoverZoom) - Makes condition icons more legible by increasing their size. Also enlarges and makes them opaque on hover.
 
-## Modules Pending Re-Review at a Later Date
+## Modules Pending Review
+- None at the moment!
+
+## Modules Scheduled for Re-Review at a Later Date
 - [Compendium Browser](https://foundryvtt.com/packages/compendium-browser/) - Easily browse and filter spells as well as NPCs loaded from the compendium. - Review 2020 Sep 06 - Seems incredibly useful but there is currently an issue with Shared compendiums that can crash a game (https://github.com/syl3r86/compendium-browser/issues/13). Will revisit once it's had time to stew some more.
 - [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects. - Review 2020 Sep 06 - Seems like an incredible module, but there are 20+ outstanding issues on the repository. Too risky an interuption to regular gameplay in its current state.
 - [Grid Scaler](https://github.com/UberV/scaleGrid) - Adds tool to help to set the Foundry grid on the background image - Review 2020 Sep 06 - Seems super helpful, but a number of issues exist. Defintely going to revist.
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests. - Review 2020 Sep 06 - This looks incredible but a number of outstanding issues has me putting this aside to revisit at a later date.
 - [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification. - Review 2020 Sep 06 - Love everything about this but don't have a need for it. Going to place this for re-review at a later time.
+- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Token toolstips and Quality of Life enhancements - Review 2020 Sep 06 - Tons of usefull enhancements but a bit overkill. Some of the tooltip options that it can show seem unique to this module and I haven't seeen them elsewhere. There is an open issue to split the module so it's more granular, hopefully that happens.
+- [Group Initiative](https://foundryvtt.com/packages/group-initiative/) - Suggested by LorduFreeman on The Foundry Discord - Review 2020 Sep 06 - Great idea but seems to be broken (https://github.com/tonifisler/foundry-group-initiative/issues/4).
+- [Sheet To Token](https://foundryvtt.com/packages/sheet-to-token/) - Automatically updates an actor's Prototype Token to match its actor image when updated. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Fantastic idea, but haven't actually needed it in practice so far.
+- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Suggested by azath0ught on the FoundryVTT Subreddit
+
 
 ## Modules Reviewed or Retired, and not in active use
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
@@ -144,6 +136,13 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e) - Review 2020 Sep 06 - Nice for what it does but superseded by Tidy 5e Sheet
 - [D&D 5e Conditions](https://github.com/trdischat/conditions5e) - Review 2020 Sep 06 - Great idea, but not needed with everything else we have running.
 - [D&D5E Dark Mode](https://github.com/Stryxin/dnd5edark-foundryvtt) - Review 2020 Sep 06 - Cool! I just have no need for dark mode.
+- [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys) - Review 2020 Sep 06 - The last thing I want is more hotkeys, nice if you do though.
+- [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox) - Creates an input field to add a modifier to the next roll - Review 2020 Sep 06 - I see the value, I just don't need it.
+- [Kobold Press OGL](http://kpogl.wikidot.com/) - All the 5e OGL Content Kobold Press has released - Review 2020 Sep 06 - This is awesome if you want Kobold Press content. Some of their content is already in Plutonium, but I don't think all of it.
+- [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is such a cool idea but it's so easy to quickly Zoom out that it's not actually that helpful in practice.
+- [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is an excellent idea, but some UX leaves me wanting. Hopefully something similar gets built out in FoundryVTT core.
+- [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not a bad idea, but haven't had the need for it.
+- [ConditionIconHoverZoom](https://github.com/Sparkasaurusmex/ConditionIconHoverZoom) - Makes condition icons more legible by increasing their size. Also enlarges and makes them opaque on hover. - Review 2020 Sep 06 - I thought I wanted this when I first saw it, but I don't really need it.
 
 ## Free Map-Pack Resources
 Not tested, shared for ease of reference.
