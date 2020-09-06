@@ -20,7 +20,6 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Sound Effects: Off
   - Shadows Quality: Off
   - Advanced Lighting: Off
-  - Animation Speed: 2x
 - [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
   - Configure Settings > Module Settings > Fix CPU on token movement
   - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
