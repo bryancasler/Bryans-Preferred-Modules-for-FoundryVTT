@@ -35,7 +35,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 
 ## Quality of Life Improvements For GameMasters
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
-- [Easy Target](https://bitbucket.org/Fyorl/easy-target/) - Toggles the targeting tool while holding alt. Also allows for alt+clicking inside an AoE to target all tokens within that AoE. Holding alt while placing a template will also target all tokens within that template when placed.
+- [Easy Target](https://bitbucket.org/Fyorl/easy-target/) - Toggles the targeting tool while holding option key (alt on Windows). Also allows for option+clicking inside an AoE to target all tokens within that AoE. Holding the option key while placing a template will also target all tokens within that template when placed.
 - [Follow Me](https://github.com/Brunhine/FollowMe) - Allows tokens to follow other tokens.
 - [GM Scene Background](https://github.com/death-save/gm-bg) - Allows GMs to set a GM-only background image.
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
