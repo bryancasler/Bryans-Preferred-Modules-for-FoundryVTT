@@ -97,6 +97,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Actors Directory (tab) > Plutonium Import - You'll figure it out
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected.
+  - My pending pull request that makes the Token Bar use a more native UI https://github.com/Kekilla0/TokenBar/pull/20
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
   
