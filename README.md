@@ -98,6 +98,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected.
   - My pending pull request that makes the Token Bar use a more native UI https://github.com/Kekilla0/TokenBar/pull/20
+  - Note: May soon be replaced by [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud).
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
   
@@ -116,8 +117,8 @@ Once the above settings are put in place, the following will help you up your GM
 
 # Other Modules
 
-## Modules Pending my First Review
-- None at the moment!
+## Modules Pending Review
+- [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token - Initial Review 2020 Sep 07 - This would replace Token Bar and supports PF2e. Also I like the UI more. Will probably replace Token Bar.
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
