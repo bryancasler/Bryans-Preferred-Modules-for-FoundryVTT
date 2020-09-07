@@ -6,10 +6,6 @@
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
-## Core Settings
-- Configure Audio / Video > Audio / Video Conference Mode: Disabled
-  - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
-
 ## Quality of Life Improvements For Everyone
 - [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
   - Game Settings (Tab) > Module Settings > Chat Portrait > Portrait Border Shape > Change to "Circle"
@@ -18,9 +14,9 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
   - Hide FX: None
-  - Sound Effects: Off
-  - Shadows Quality: Off
-  - Advanced Lighting: Off
+  - Sound Effects: Unchecked
+  - Shadows Quality: Unchecked
+  - Advanced Lighting: Unchecked
 - [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
   - Configure Settings > Module Settings > Fix CPU on token movement
   - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
@@ -50,21 +46,25 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) - Better ambient lighting & Token light toolkit - Suggested by jniezink on the FoundryVTT Subreddit
   - This feature will be coming soon to FoundryVTT 7 core. Once it is, this module can be removed.
 - [Maestro](https://github.com/death-save/maestro) - Adds player hype tracks, item tracks, combat tracks, and more.
-  - Enable Hype Track: On
-  - Enable Combat Track: On
-  - Create Combat Tracks Playlist: On
-  - Disable Dice Sounds: On
-  - Enable Critical Success / Failure Tracks
+  - Enable Hype Track: Checked
+  - Enable Combat Track: Checked
+  - Create Combat Tracks Playlist: Checked
+  - Disable Dice Sounds:CheckedOn
+  - Enable Critical Success / Failure Tracks: Checked
 - [Music Assistant](https://github.com/temportalflux/MusicAssist) - Adds support for youtube tracks in audio playlists.
   - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
 
 ## Combat
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [Combat Ready!](https://github.com/smilligan93/combatready) - Shows a graphic + sound for players a round just before a player's turn (Next Up) and during their turn.
-  - Disable ‘Next Up’ notification: Off
-  - Disable Timer: On
-  - Show End Turn Dialog: On
-  - Ticking Sound: Off
+  - Disable ‘Next Up’ notification: Unchecked
+  - Disable Timer: Checked
+  - Show End Turn Dialog: Checked
+  - Ticking Sound: Unchecked
+ 
+## FoundryVTT Core Settings
+- Configure Audio / Video > Audio / Video Conference Mode: Disabled
+  - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) - What could this be?
