@@ -31,6 +31,7 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Fix CPU on token movement: Checked
   - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked - This will cause Dancing Lights and other animations to stop when the player goes idle. You may not want to use this if you have lots of animations. You may want to use this if most players have slower computers.
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
+- [Pick-Up-Stix](https://foundryvtt.com/packages/pick-up-stix/) - Create items as Tokens that players can pick up. It will automatically add the items to the player's inventory.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
 in most parts of FoundryVTT. Find actors, items, spells etc. and insert them wherever you need them right now - the map, character sheets, roll tables, journals, you name it. - Suggested by LorduFreeman on The Foundry Discord
