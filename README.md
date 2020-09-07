@@ -7,13 +7,15 @@
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
-## Video Walkthrough
+# Video Walkthrough
 This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
 - [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk)
   - 00:00 - 05:00 - Enabling and Configuring Modules
   - 05:00 - 20:43 - Loading Compendium Assets from 5eTools via Plutonium
-  
+
+# Preferred FoundryVTT Modules
+
 ## Quality of Life Improvements For Everyone
 - [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
   - Game Settings (Tab) > Module Settings > Chat Portrait > Portrait Border Shape > Change to "Circle"
@@ -110,6 +112,7 @@ Once the above settings are put in place, the following will help you up your GM
 - Double click on window title bar - This will cause the title window to collapse
 
 # Reviewed Modules
+
 ## Modules Pending their First Review
 - None at the moment!
 
