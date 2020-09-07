@@ -168,6 +168,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
 - [Intro to Dynamic (Character Stat) Effects](https://www.reddit.com/r/FoundryVTT/comments/ibfphc/a_very_simple_intro_to_dynamic_effects/)
 - [All D&D 5e Monster Tokens](https://www.reddit.com/r/dndnext/comments/ij8ljk/i_made_monster_tokens_for_every_monster_in_the/)
+- [Inkarnate](https://inkarnate.com/) - Map and Dungeon Generator that works well with FoundryVTT (Free or $25yr)
 
 # Bryan's Repositories
 - [Bryan's AWS Setup Guide for FoundryVTT](https://github.com/bryancasler/Bryans-AWS-Setup-Guide-for-FoundryVTT)
