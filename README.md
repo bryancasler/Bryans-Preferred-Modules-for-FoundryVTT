@@ -8,7 +8,7 @@
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
 ## Video Walkthrough
-The following is a Video walkthrough showing the initial set up for a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
+This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
 - [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk)
   - 00:00 - 05:00 - Enabling and Configuring Modules
