@@ -96,9 +96,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Actors Directory (tab) > Cog > UI > Fix Esc Key
   - Actors Directory (tab) > Plutonium Import - You'll figure it out
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
-- [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected.
-  - My pending pull request that makes the Token Bar use a more native UI https://github.com/Kekilla0/TokenBar/pull/20
-  - Note: May soon be replaced by [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud).
+- [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
   
@@ -118,7 +116,7 @@ Once the above settings are put in place, the following will help you up your GM
 # Other Modules
 
 ## Modules Pending Review
-- [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token - Initial Review 2020 Sep 07 - This would replace Token Bar and supports PF2e. Also I like the UI more. Will probably replace Token Bar.
+None at the moment!
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
@@ -173,6 +171,8 @@ These modules are no longer used as they’ve become redundant to features provi
   - Advanced Drawing Tools: Off
   - Improve the Playlists UI: Off
 - [Tidy UI - Game Settings](https://github.com/sdenec/tidy-ui_game-settings) - A module to make the game settings menu a bit more comfortable to use. - Retired 2020 Sep 06 - Nothing wrong with this, just felt unnecisary since I'm not messing around the the game settings that often after the instance has been set up. Still nice to have during your first build out but unnecessary.
+- [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected. - Retired 2020 Sep 07 - Replaced by [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud).
+  - My pending pull request that makes the Token Bar use a more native UI https://github.com/Kekilla0/TokenBar/pull/20
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Apply damage/healing to all selected tokens. - Review 2020 Sep 06 - Great idea but overkill and one more keyboard shortcut I would need to remember.
 - [Token Mold](https://github.com/Moerill/token-mold) - For minting tokens that auto append a counter or descriptor to the tokens name. Also can handle automatic token scaling. - Retired 2020 Aug 09 - Great concept but limited utility at the moment. Retiring to reduce UI clutter, will revisit in the future.
 - [Turn Alert](https://github.com/schultzcole/FVTT-Turn-Alert) - Set alerts to trigger on a particular round of combat or on a particular token's turn. - Retired 2020 Aug 09 - Turn altering is handled by Combat Ready
