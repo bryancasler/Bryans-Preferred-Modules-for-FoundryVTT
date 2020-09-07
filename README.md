@@ -124,7 +124,7 @@ Once the above settings are put in place, the following will help you up your GM
   - Grant Players access to the overview?: Off
   - Enable tooltips?: Off - Similar information is already provided by Token Info Icons
 
-## Modules Reviewed or Retired, and not in active use
+## Modules Reviewed or Retired, and Not in Active Use
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
 - [Turn Alert](https://github.com/schultzcole/FVTT-Turn-Alert) - Set alerts to trigger on a particular round of combat or on a particular token's turn. - Retired 2020 Aug 09 - Turn altering is handled by Combat Ready
 - [Turn Marker](https://github.com/Brunhine/TurnMarker) - Adds an image under a token who is currently active in the combat tracker. - Retired 2020 Aug 09 - Turn marking is handled by Combat Ready
