@@ -34,7 +34,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [GM Scene Background](https://github.com/death-save/gm-bg) - Allows GMs to set a GM-only background image.
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
-- [Group Roll Checks and Saves](https://github.com/trdischat/grouproll) - Facilitates D&D 5e and Pathfinder 2e Group Rolls.
+- [Group Roll](https://github.com/trdischat/grouproll) - Facilitates D&D 5e and Pathfinder 2e Group Roll Checks and Saves.
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
 - [Trigger Happy](https://foundryvtt.com/packages/trigger-happy/) - Create triggers for your players to spring traps or anything you can think of.
