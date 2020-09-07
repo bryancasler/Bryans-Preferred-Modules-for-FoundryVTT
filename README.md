@@ -154,7 +154,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
 - [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized. - Retired 2020 Sep 06 - Nothing wrong with this, just ended up never needing it.
 
-## Miscellaneous
+## Miscellaneous Resources
 - [Module usage statistics from The Forge - July 2020](https://i.imgur.com/xRVVed1.png)
 - [Official FoundryVTT Sub-Reddit Module Wiki](https://www.reddit.com/r/FoundryVTT/wiki/index/modules)
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
