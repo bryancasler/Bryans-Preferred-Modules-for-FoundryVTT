@@ -17,7 +17,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
   - Sound Effects: Unchecked
   - Shadows Quality: Unchecked
   - Advanced Lighting: Unchecked
-- [Haste](https://gitlab.com/jesusafier/haste) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
+- [Haste](https://gitlab.com/jesusafier/haste) ([module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
   - Configure Settings > Module Settings > Fix CPU on token movement
   - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
@@ -51,7 +51,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Create Combat Tracks Playlist: Checked
   - Disable Dice Sounds:CheckedOn
   - Enable Critical Success / Failure Tracks: Checked
-- [Music Assistant](https://github.com/temportalflux/MusicAssist) - Adds support for youtube tracks in audio playlists.
+- [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
   - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
 
 ## Combat
@@ -67,7 +67,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
-- [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) - What could this be?
+- [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) ([module.json](https://get.5e.tools/plutonium/module.json)) - What could this be?
   - Cog > Actors > Enable Sheet Popout Button
   - Cog > Actors > Auto-Roll Multiattacks
   - Cog > Tokens > Display missing Health
