@@ -12,7 +12,6 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 
 - [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - There is no sound, play your own music :)
   - 00:00 - 05:00 - Enabling and Configuring Modules
-  - 05:00 - 20:43 - Loading Compendium Assets from 5eTools via Plutonium
 
 # Preferred FoundryVTT Modules
 
@@ -81,21 +80,6 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
-- [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) ([module.json](https://get.5e.tools/plutonium/module.json)) - What could this be?
-  - Actors Directory (tab) > Cog > Actors > Enable Sheet Popout Button
-  - Actors Directory (tab) > Cog > Actors > Auto-Roll Multiattacks
-  - Actors Directory (tab) > Cog > Tokens > Display missing Health
-  - Actors Directory (tab) > Cog > UI > Compact Header Buttons
-  - Actors Directory (tab) > Cog > UI > Compact Scenes Directory
-  - Actors Directory (tab) > Cog > UI > Compact Actors Directory
-  - Actors Directory (tab) > Cog > UI > Compact Items Directory 
-  - Actors Directory (tab) > Cog > UI > Compact Journal Entries 
-  - Actors Directory (tab) > Cog > UI > Compact Rollable Tables 
-  - Actors Directory (tab) > Cog > UI > Name Browser Tab After Active Scene
-  - Actors Directory (tab) > Cog > UI > Display Detected Backend
-  - Actors Directory (tab) > Cog > UI > Fast Animations
-  - Actors Directory (tab) > Cog > UI > Fix Esc Key
-  - Actors Directory (tab) > Plutonium Import - You'll figure it out
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
@@ -106,7 +90,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
 - [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
 - [Virtual Tabletop Assets - Iconizer](https://www.vttassets.com/assets/vtta-iconizer) - Whenever an item is created or updated, Iconizer looks up its name in its dictionaries. If it finds an entry, it will use the icon references there to update the image of that item.
-  - Could be helpful for Pathfinder 2e, but not needed for D&D 5e as Plutonium already imagery for nearly every entry in its database.
+  - Could be helpful for Pathfinder 2e, but not needed for D&D 5e as I have imagery for nearly every entry in its database.
 
 # Quick References
 Once the above settings are put in place, the following will help you up your GM game.
