@@ -20,13 +20,13 @@ The following is a Video walkthrough showing the initial set up for a D&D 5e wor
 - [Cursor Zoom](https://gitlab.com/foundry-azzurite/cursor-hider) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
-  - Hide FX: None
-  - Sound Effects: Unchecked
-  - Shadows Quality: Unchecked
-  - Advanced Lighting: Unchecked
+  - Configure Settings (tab) > Module Settings > Hide FX: None
+  - Configure Settings (tab) > Module Settings > Sound Effects: Unchecked
+  - Configure Settings (tab) > Module Settings > Shadows Quality: None
+  - Configure Settings (tab) > Module Settings > Advanced Lighting: Unchecked
 - [Haste](https://gitlab.com/jesusafier/haste) ([module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
-  - Configure Settings > Module Settings > Fix CPU on token movement
-  - Configure Settings > Module Settings > Experimental Adaptive GPU fps tweak
+  - Configure Settings (tab) > Module Settings > Fix CPU on token movement: Checked
+  - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
@@ -53,21 +53,21 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) - Better ambient lighting & Token light toolkit - Suggested by jniezink on the FoundryVTT Subreddit
   - This feature will be coming soon to FoundryVTT 7 core. Once it is, this module can be removed.
 - [Maestro](https://github.com/death-save/maestro) - Adds player hype tracks, item tracks, combat tracks, and more.
-  - Enable Hype Track: Checked
-  - Enable Combat Track: Checked
-  - Create Combat Tracks Playlist: Checked
-  - Disable Dice Sounds:CheckedOn
-  - Enable Critical Success / Failure Tracks: Checked
+  - Configure Settings (tab) > Module Settings > Enable Hype Track: Checked
+  - Configure Settings (tab) > Module Settings > Enable Combat Track: Checked
+  - Configure Settings (tab) > Module Settings > Create Combat Tracks Playlist: Checked
+  - Configure Settings (tab) > Module Settings > Disable Dice Sounds: Checked
+  - Configure Settings (tab) > Module Settings > Enable Critical Success / Failure Tracks: Checked
 - [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
   - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
 
 ## Combat
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [Combat Ready!](https://github.com/smilligan93/combatready) - Shows a graphic + sound for players a round just before a player's turn (Next Up) and during their turn.
-  - Disable ‘Next Up’ notification: Unchecked
-  - Disable Timer: Checked
-  - Show End Turn Dialog: Checked
-  - Ticking Sound: Unchecked
+  - Configure Settings (tab) > Module Settings > Disable ‘Next Up’ notification: Unchecked
+  - Configure Settings (tab) > Module Settings > Disable Timer: Checked
+  - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
+  - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
  
 ## FoundryVTT Core Settings
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
@@ -75,24 +75,25 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Plutonium by 5e Tools](https://wiki.5e.tools/index.php/FoundryTool_Install) ([module.json](https://get.5e.tools/plutonium/module.json)) - What could this be?
-  - Cog > Actors > Enable Sheet Popout Button
-  - Cog > Actors > Auto-Roll Multiattacks
-  - Cog > Tokens > Display missing Health
-  - Cog > UI > Compact Header Buttons
-  - Cog > UI > Compact Scenes Directory
-  - Cog > UI > Compact Actors Directory
-  - Cog > UI > Compact Items Directory 
-  - Cog > UI > Compact Journal Entries 
-  - Cog > UI > Compact Rollable Tables 
-  - Cog > UI > Name Browser Tab After Active Scene
-  - Cog > UI > Display Detected Backend
-  - Cog > UI > Fast Animations
-  - Cog > UI > Fix Esc Key
+  - Actors Directory (tab) > Cog > Actors > Enable Sheet Popout Button
+  - Actors Directory (tab) > Cog > Actors > Auto-Roll Multiattacks
+  - Actors Directory (tab) > Cog > Tokens > Display missing Health
+  - Actors Directory (tab) > Cog > UI > Compact Header Buttons
+  - Actors Directory (tab) > Cog > UI > Compact Scenes Directory
+  - Actors Directory (tab) > Cog > UI > Compact Actors Directory
+  - Actors Directory (tab) > Cog > UI > Compact Items Directory 
+  - Actors Directory (tab) > Cog > UI > Compact Journal Entries 
+  - Actors Directory (tab) > Cog > UI > Compact Rollable Tables 
+  - Actors Directory (tab) > Cog > UI > Name Browser Tab After Active Scene
+  - Actors Directory (tab) > Cog > UI > Display Detected Backend
+  - Actors Directory (tab) > Cog > UI > Fast Animations
+  - Actors Directory (tab) > Cog > UI > Fix Esc Key
+  - Actors Directory (tab) > Plutonium Import - You'll figure it out
 - [Token Bar](https://github.com/Kekilla0/TokenBar) - It populates an action bar for the token you have selected.
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
-  - Configure Settings > Module Settings > GM Uses Inventory
+  - Configure Settings (tab) > Module Settings > GM Uses Inventory
   
 ## Pathfinder 2e (P2E) Specific
 - [Pathfinder 2e Quick Rolls](https://gitlab.com/mcarthur.alford/pf2qr) - Adds features to speed up rolling in chat.
