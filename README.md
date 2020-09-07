@@ -26,7 +26,7 @@ The following is a Video walkthrough showing the initial set up for a D&D 5e wor
   - Configure Settings (tab) > Module Settings > Advanced Lighting: Unchecked
 - [Haste](https://gitlab.com/jesusafier/haste) ([module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
   - Configure Settings (tab) > Module Settings > Fix CPU on token movement: Checked
-  - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked
+  - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked - This will cause Dancing Lights and other animations to stop when the player goes idle. You may not want to use this if you have lots of animations. You may want to use this if most players have slower computers.
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
