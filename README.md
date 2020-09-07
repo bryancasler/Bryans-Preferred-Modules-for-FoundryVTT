@@ -111,12 +111,12 @@ Once the above settings are put in place, the following will help you up your GM
 - Control + 2 - This compendium search will allow you to quickly add or reference compendium content
 - Double click on window title bar - This will cause the title window to collapse
 
-# Reviewed Modules
+# Other Modules
 
-## Modules Pending their First Review
+## Modules Pending my First Review
 - None at the moment!
 
-## Modules Scheduled for Re-Review at a Later Date
+## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
   - This Module inserts images as base64 encoded data which can grow the chat log to the point it can start to impact gameplay (https://github.com/bmarian/chat-images/issues/7). This could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. - Flagged by an Anonymous user on The Forge Discord
 - [Compendium Browser](https://foundryvtt.com/packages/compendium-browser/) - Easily browse and filter spells as well as NPCs loaded from the compendium. - Review 2020 Sep 06 - Seems incredibly useful but there is currently an issue with Shared compendiums that can crash a game (https://github.com/syl3r86/compendium-browser/issues/13). Will revisit once it's had time to stew some more.
@@ -136,7 +136,7 @@ Once the above settings are put in place, the following will help you up your GM
   - Grant Players access to the overview?: Off
   - Enable tooltips?: Off - Similar information is already provided by Token Info Icons
 
-## Modules Reviewed or Retired, and Not in Active Use
+## Modules Reviewed or Retired and Not in Active Use
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
 - [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not a bad idea, but haven't had the need for it.
 - [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e) - Review 2020 Sep 06 - Nice for what it does but superseded by Tidy 5e Sheet
@@ -174,7 +174,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox) - Creates an input field to add a modifier to the next roll - Review 2020 Sep 06 - I see the value, I just don't need it.
 - [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is an excellent idea, but some UX leaves me wanting. Hopefully something similar gets built out in FoundryVTT core.
 
-# Miscellaneous Resources
+# Additional Resources
 - [All D&D 5e Monster Tokens](https://www.reddit.com/r/dndnext/comments/ij8ljk/i_made_monster_tokens_for_every_monster_in_the/)
 - [Foundry VTT Community](https://foundry-vtt-community.github.io/)
 - [Inkarnate](https://inkarnate.com/) - Map and Dungeon Generator that works well with FoundryVTT (Free or $25yr)
