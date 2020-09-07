@@ -6,10 +6,10 @@
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
-## Tutorial
-The following is a Video Tutorial showing the initial set up for a D&D5e world. On FoundryVTT, the modules have already been added. In the recording we're enabling the desired modules and configuring them.
+## Video Walkthrough
+The following is a Video walkthrough showing the initial set up for a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
-- [D&D 5e FoundryVTT Set Up Tutorial](https://d.pr/v/lwg9Xk)
+- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk)
 
 ## Quality of Life Improvements For Everyone
 - [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
