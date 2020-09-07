@@ -10,7 +10,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 # Video Walkthrough
 This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
-- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - No sound, play your own music :)
+- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - There is no sound, play your own music :)
   - 00:00 - 05:00 - Enabling and Configuring Modules
   - 05:00 - 20:43 - Loading Compendium Assets from 5eTools via Plutonium
 
