@@ -101,7 +101,21 @@ Once the above settings are put in place, the following will help you up your GM
 # Other Modules
 
 ## Modules Pending Review
-None at the moment!
+- [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen on laptops.
+- [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
+- [FoundryVTT Image Drop](https://gitlab.com/mesfoliesludiques/foundryvtt-image-drop) - Allows dropping Journal Entry to the canvas as Tile
+- [Lazy Money](https://github.com/DeVelox/lazymoney) - Easily add or remove currency with automatic conversion and no overdraft.
+- [Chat Scrolling](https://foundryvtt.com/packages/chat-scrolling/) - Makes FoundryVTT's chat log not jump to the bottom for a new message if you have scrolled up to read the log.
+- [Master Mirror](https://foundryvtt.com/packages/master-mirror/) - A simple CSS module that rearranges the Foundry UI elements. Sidebar on left, scene controls on right, etc.
+- [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) - Shows a display at the top right with the current fps.
+- [Tweak Playlist](https://foundryvtt.com/packages/tweakplaylist/) - Make playlists visible only to the GM. Allow for random loop delays and random volume adjustments between repeated plays of a sound. Also adds color to Play and Stop buttons in playlists.
+- [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) - Allows for copying TXT/JSON list of installed and enabled system/modules and their versions.
+- [Illandril's Chat Enhancements](https://foundryvtt.com/packages/illandril-chat-enhancements/) - Enhances the chat by showing player names in IC messages, replacing actor names with token names, and showing who you are currently speaking as. It also simulates hovering over a token when hovering over a chat message associated with a token.
+- [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the apperance of D&D 5e monster statblocks.
+- [Token Vision Tweaks](https://foundryvtt.com/packages/token-vision-tweaks/) - Provides some tweaks for Token Vision, to allow trading quality for performance, or vice-versa. Also provides a fix for a vision issue present in large open maps which may cause tokens to be able to see through distant walls, as well as a Fog-of-War memory leak.
+- [Autocomplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) - Foundry VTT module to enhance chat whisper targeting with typeahead suggestions and popup menu of available targets.
+- [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
+- [Multilevel Tokens](https://foundryvtt.com/packages/multilevel-tokens/) - Allows you to mark out linked regions on the map. Tokens present in the source region will be automatically cloned to the target region, and kept up-to-date with the original, mirroring movement and other changes.
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
