@@ -99,7 +99,6 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 # Quick References
 Once the above settings are put in place, the following will help you up your GM game.
 - Control + Space - This universal search will index ALL contents in FoundryVTT
-- Control + 2 - This compendium search will allow you to quickly add or reference compendium content
 - Double click on window title bar - This will cause the title window to collapse
 
 # Other Modules
