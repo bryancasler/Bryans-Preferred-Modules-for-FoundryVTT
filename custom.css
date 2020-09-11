@@ -1,0 +1,75 @@
+/* Remove the Foundry VTT Logo */
+#logo{
+    display: none;
+}
+
+/* Move controls up now that the logo is gone */
+#controls{
+    top: 0px;
+}
+
+/* Hide Players Listing. Doesn't really matter who the hell is logged in */
+#players{
+    /* display: none; */
+}
+
+/* Remove box shadow */
+#players.app{
+    box-shadow: none;   
+}
+
+/* Adjust sidebar display */
+#sidebar{
+    background-color: #4c4c4c;
+    border-color: #4c4c4c;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    border-radius: 0;
+}
+
+/* Remove box shadow */
+#sidebar.app{
+    box-shadow: none;
+}
+
+/* Add ordering that the items in the Chat Tab */
+[data-tab="chat"] > *{
+    order: 1;
+}
+
+/* Force the Private GM Roll Select Dropdown to be at the bottom of the page */
+#chat-controls{
+    order: 2
+}
+
+/* Remove the D20 Icon from Chat Controls*/
+#chat-controls .roll-type-select label{
+    display: none;
+}
+
+/* Set the Private GM Rolls Select Dropdown to span the full width of its area */
+#chat-controls div.roll-type-select select{
+    width: 100%
+}
+
+/* Remove Chat Save and Chat Delete Buttons */
+#sidebar #chat-controls .control-buttons{
+    display: none;
+}
+
+/* Vertically Center the Polygot Label and Select Dropdown */
+#polyglot.polyglot-lang-select {
+    align-items: center;
+}
+
+/* Remove the "Language" Label */
+#polyglot.polyglot-lang-select{
+    display: none;
+}
+
+/* Resize the Polygot Select Dropdown */
+#polyglot.polyglot-lang-select select{
+        flex-basis: auto;
+        height: auto;
+}
