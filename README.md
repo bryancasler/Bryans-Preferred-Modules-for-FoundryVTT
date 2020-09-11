@@ -18,6 +18,7 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 ## Quality of Life Improvements For Everyone
 - [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
   - Game Settings (Tab) > Module Settings > Chat Portrait > Portrait Border Shape > Change to "Circle"
+  - Game Settings (Tab) > Module Settings > Chat Portrait > Use Token Image: Checked
 - [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/) - Adds a nested folder structure, and option for hiding entries, for your compendiums
 - [Cursor Zoom](https://foundryvtt.com/packages/cursor-zoom/) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
@@ -34,10 +35,10 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
 in most parts of FoundryVTT. Find actors, items, spells etc. and insert them wherever you need them right now - the map, character sheets, roll tables, journals, you name it. - Suggested by LorduFreeman on The Foundry Discord
-  - The default short key (control + space) must be changed as it's already in use by Search Anywhere. This can be done in the module's settings.
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 - [OneJournal](https://foundryvtt.com/packages/one-journal/) - Provides a unified view for authoring journals
+   - Configure Settings (tab) > Module Settings > Button in journal directory: Checked
 
 ## Quality of Life Improvements For GameMasters
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
@@ -79,7 +80,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 ## FoundryVTT Core Settings
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
   - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
-  
+- Configure Settings (tab) > Configure frame rate: 30fps - OPTIONAL. This drops max framerate, but can help create a more consistent gaming experience
+
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
 - [Not Enough NPCs](https://github.com/ardittristan/VTTNPCGen) - NPC Generator
