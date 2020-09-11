@@ -105,8 +105,12 @@ Once the above settings are put in place, the following will help you up your GM
 - [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - Adds an FPS meter, used for testing and perfroamnce debugging.
   - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
   
+## Modules In Testing  
+- [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen on laptops.  
+- [Illandril's Chat Enhancements](https://foundryvtt.com/packages/illandril-chat-enhancements/) - Enhances the chat by showing player names in IC messages, replacing actor names with token names, and showing who you are currently speaking as. It also simulates hovering over a token when hovering over a chat message associated with a token.
+- [Autocomplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) - Foundry VTT module to enhance chat whisper targeting with typeahead suggestions and popup menu of available targets.
+
 ## Modules Pending Review
-- [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen on laptops.
 - [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
 - [FoundryVTT Image Drop](https://gitlab.com/mesfoliesludiques/foundryvtt-image-drop) - Allows dropping Journal Entry to the canvas as Tile
 - [Lazy Money](https://github.com/DeVelox/lazymoney) - Easily add or remove currency with automatic conversion and no overdraft.
@@ -115,12 +119,9 @@ Once the above settings are put in place, the following will help you up your GM
 - [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) - Shows a display at the top right with the current fps.
 - [Tweak Playlist](https://foundryvtt.com/packages/tweakplaylist/) - Make playlists visible only to the GM. Allow for random loop delays and random volume adjustments between repeated plays of a sound. Also adds color to Play and Stop buttons in playlists.
 - [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) - Allows for copying TXT/JSON list of installed and enabled system/modules and their versions.
-- [Illandril's Chat Enhancements](https://foundryvtt.com/packages/illandril-chat-enhancements/) - Enhances the chat by showing player names in IC messages, replacing actor names with token names, and showing who you are currently speaking as. It also simulates hovering over a token when hovering over a chat message associated with a token.
 - [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the apperance of D&D 5e monster statblocks.
 - [Token Owner Selection Tweak](https://foundryvtt.com/packages/token-owner-selection-tweak/) - Prevents player selection (and therefore vision) from changing if a new token they are the owner of is created. [More here](https://www.reddit.com/r/FoundryVTT/comments/iq4kv4/module_fix_vision_going_dark_when_utility_tokens/).
 - [Token Vision Tweaks](https://foundryvtt.com/packages/token-vision-tweaks/) - Provides some tweaks for Token Vision, to allow trading quality for performance, or vice-versa. Also provides a fix for a vision issue present in large open maps which may cause tokens to be able to see through distant walls, as well as a Fog-of-War memory leak.
-- [Autocomplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) - Foundry VTT module to enhance chat whisper targeting with typeahead suggestions and popup menu of available targets.
-- [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 - [Multilevel Tokens](https://foundryvtt.com/packages/multilevel-tokens/) - Allows you to mark out linked regions on the map. Tokens present in the source region will be automatically cloned to the target region, and kept up-to-date with the original, mirroring movement and other changes.
 
 ## Modules Scheduled for a Re-Review at a Later Date
@@ -186,6 +187,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized. - Retired 2020 Sep 06 - Nothing wrong with this, just ended up never needing it.
 - [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox) - Creates an input field to add a modifier to the next roll - Review 2020 Sep 06 - I see the value, I just don't need it.
 - [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is an excellent idea, but some UX leaves me wanting. Hopefully something similar gets built out in FoundryVTT core.
+- [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves. - Review 2020 Sep 11 - Just did not have a need for this. 
 
 # Additional Resources
 - [All D&D 5e Monster Tokens](https://www.reddit.com/r/dndnext/comments/ij8ljk/i_made_monster_tokens_for_every_monster_in_the/)
