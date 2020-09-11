@@ -8,6 +8,25 @@
     top: 0px !important;
 }
 
+/* Make background opaque and remove unnecessary drop shadows */
+#controls .scene-control,
+#controls .control-tool{
+    background-color: #4c4c4c;
+    box-shadow: none;
+}
+
+/* Make background opaque and remove unnecessary drop shadows */
+#controls .control-tool.toggle{
+    background: rgba(30, 0, 60, 1) !important;
+    box-shadow: none;
+}
+
+/* Make background opaque and remove unnecessary drop shadows */
+#controls .control-tool.toggle{
+    background: rgba(60, 0, 120, 1) !important;
+    box-shadow: 0 0 5px #9b8dff;
+}
+
 /* Hide Players Listing. Doesn't really matter who the hell is logged in */
 #players{
     /* display: none; */
