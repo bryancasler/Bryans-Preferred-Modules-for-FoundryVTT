@@ -64,7 +64,7 @@
 }
 
 /* Remove the "Language" Label */
-#polyglot.polyglot-lang-select{
+#polyglot.polyglot-lang-select label{
     display: none;
 }
 
