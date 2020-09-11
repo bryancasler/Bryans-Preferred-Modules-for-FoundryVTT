@@ -5,7 +5,7 @@
 
 /* Move controls up now that the logo is gone */
 #controls{
-    top: 0px;
+    top: 0px !important;
 }
 
 /* Hide Players Listing. Doesn't really matter who the hell is logged in */
@@ -22,9 +22,9 @@
 #sidebar{
     background-color: #4c4c4c;
     border-color: #4c4c4c;
-    right: 0;
-    top: 0;
-    height: 100vh;
+    right: 0 !important;
+    top: 0 !important;
+    height: 100vh !important;
     border-radius: 0;
 }
 
@@ -50,7 +50,7 @@
 
 /* Set the Private GM Rolls Select Dropdown to span the full width of its area */
 #chat-controls div.roll-type-select select{
-    width: 100%
+    width: 100% !important;
 }
 
 /* Remove Chat Save and Chat Delete Buttons */
