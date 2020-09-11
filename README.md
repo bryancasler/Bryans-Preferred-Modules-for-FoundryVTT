@@ -35,9 +35,9 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
 in most parts of FoundryVTT. Find actors, items, spells etc. and insert them wherever you need them right now - the map, character sheets, roll tables, journals, you name it. - Suggested by LorduFreeman on The Foundry Discord
   - The default short key (control + space) must be changed as it's already in use by Search Anywhere. This can be done in the module's settings.
-- [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget.
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
+- [OneJournal](https://foundryvtt.com/packages/one-journal/) - Provides a unified view for authoring journals
 
 ## Quality of Life Improvements For GameMasters
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
@@ -53,6 +53,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Trigger Happy](https://foundryvtt.com/packages/trigger-happy/) - Create triggers for your players to spring traps or anything you can think of.
 - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
+- [VTT ReturnToSetup](https://github.com/ardittristan/VTTReturnToSetup) - Adds a return to set up button on the main login screen.
 
 ## General Ambiance
 - [Ambient Doors](https://github.com/EndlesNights/ambientdoors) - Customized sounds effects that trigger for all users when interacting with doors.
@@ -81,6 +82,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
+- [Not Enough NPCs](https://github.com/ardittristan/VTTNPCGen) - NPC Generator
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
@@ -99,7 +101,9 @@ Once the above settings are put in place, the following will help you up your GM
 - Double click on window title bar - This will cause the title window to collapse
 
 # Other Modules
-
+- [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - Adds an FPS meter, used for testing and perfroamnce debugging.
+  - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
+  
 ## Modules Pending Review
 - [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen on laptops.
 - [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
@@ -165,6 +169,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Mess - Moerills enhancing super-suit(e)](https://github.com/Moerill/mess) - Many features, possible compatibility issues. - Review 2020 Sep 06 - So much work clearly went into this module, but it's stated not caring about creating potential conflicts is too big a risk to have this be a daily driver. Nice work though.
 - [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is such a cool idea but it's so easy to quickly Zoom out that it's not actually that helpful in practice.
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
+- [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget. - Retired 2020 Sep 11 - Replaced by [Quick Insert](https://foundryvtt.com/packages/quick-insert/)
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
   - Advanced Macros: Off
   - Advanced Drawing Tools: Off
