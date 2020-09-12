@@ -18,6 +18,11 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 
 ## Quality of Life Improvements For Everyone
 - [Autocomplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) - Foundry VTT module to enhance chat whisper targeting with typeahead suggestions and popup menu of available targets.
+- [Combat Ready!](https://github.com/smilligan93/combatready) - Shows a graphic + sound for players a round just before a player's turn (Next Up) and during their turn.
+  - Configure Settings (tab) > Module Settings > Disable ‘Next Up’ notification: Unchecked
+  - Configure Settings (tab) > Module Settings > Disable Timer: Checked
+  - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
+  - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
 - [Cursor Zoom](https://foundryvtt.com/packages/cursor-zoom/) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
@@ -39,25 +44,16 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
 - [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
+- [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
 - [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen.
+- [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
+  - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
 - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
-
-## General Ambiance
-- [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
-  - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
-
-## Combat
-- [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
-- [Combat Ready!](https://github.com/smilligan93/combatready) - Shows a graphic + sound for players a round just before a player's turn (Next Up) and during their turn.
-  - Configure Settings (tab) > Module Settings > Disable ‘Next Up’ notification: Unchecked
-  - Configure Settings (tab) > Module Settings > Disable Timer: Checked
-  - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
-  - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
 
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
