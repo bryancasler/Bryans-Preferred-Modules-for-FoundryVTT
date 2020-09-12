@@ -18,6 +18,9 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 
 ## Quality of Life Improvements For Everyone
 - [Autocomplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) - Foundry VTT module to enhance chat whisper targeting with typeahead suggestions and popup menu of available targets.
+- [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat.
+  - Game Settings (Tab) > Module Settings > Chat Portrait > Portrait Border Shape > Change to "Circle"
+  - Game Settings (Tab) > Module Settings > Chat Portrait > Use Token Image: Checked
 - [Combat Ready!](https://github.com/smilligan93/combatready) - Shows a graphic + sound for players a round just before a player's turn (Next Up) and during their turn.
   - Configure Settings (tab) > Module Settings > Disable ‘Next Up’ notification: Unchecked
   - Configure Settings (tab) > Module Settings > Disable Timer: Checked
@@ -119,9 +122,6 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not a bad idea, but haven't had the need for it.
 - [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e) - Review 2020 Sep 06 - Nice for what it does but superseded by Tidy 5e Sheet
 - [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Overhauls most rolls on the 5th edition character sheet, and provides a way to customize roll messages per-item. - Review 2020 Sep 06 - This is a well thought out module but much of what it can do is more quickly done with "Token Bar". If you often have compound rolls (e.g. higher levels with multiple attacks) then you might want to consider this. I personally don't mind just clicking the attack roll multiple times.
-- [Chat Portrait](https://foundryvtt.com/packages/ChatPortrait/) - Show Actor’s portrait in chat. - Retired 2020 Sep 12 - Replaced by Illandril's Chat Enhancements
-  - Game Settings (Tab) > Module Settings > Chat Portrait > Portrait Border Shape > Change to "Circle"
-  - Game Settings (Tab) > Module Settings > Chat Portrait > Use Token Image: Checked
 - [Chat Scrolling](https://foundryvtt.com/packages/chat-scrolling/) - Makes FoundryVTT's chat log not jump to the bottom for a new message if you have scrolled up to read the log. - Review 2020 Sep 12 - Nice quality of life improvement. Don't need it now, but one day I might revisit.
 - [Community Tables](https://foundryvtt.com/packages/foundry_community_tables/) - A collection of Tables added by the FoundryVTT Community. - Review 2020 Sep 06 - Cool idea, but not enough content to warrant installing it.
 - [Compendium Image Mapper](https://gitlab.com/Wilco7302/compendium-image-mapper) - select a folder containing images, and then automatically search for compendium entries that best match your images. - Review 2020 Sep 06 - Fantastic module if you have a huge library of well named images you want mapped to compendium entries. I do not.
