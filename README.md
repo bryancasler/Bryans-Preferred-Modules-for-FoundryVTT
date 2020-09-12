@@ -166,6 +166,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget. - Retired 2020 Sep 11 - Replaced by [Quick Insert](https://foundryvtt.com/packages/quick-insert/)
 - [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click. - Review 2020 Sep 12 - Great idea but not worth having another module for.
+- [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves. - Review 2020 Sep 11 - Just did not have a need for this. 
 - [Teleport](https://foundryvtt.com/packages/teleport/) - Moves (teleports) one or more tokens from one point to another on the same or different scenes. - Retired 2020 Sep 12 - Great idea but requires just as much effort to set up as it does to do it manually.
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
   - Advanced Macros: Off
@@ -186,7 +187,6 @@ These modules are no longer used as they’ve become redundant to features provi
 - [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox) - Creates an input field to add a modifier to the next roll - Review 2020 Sep 06 - I see the value, I just don't need it.
 - [VTT ReturnToSetup](https://github.com/ardittristan/VTTReturnToSetup) - Adds a return to set up button on the main login screen. - Retired 2020 Sep 12 - Cool idea, but the visual interaction that happens when you select this option was a hot mess.
 - [WhisperBox](https://github.com/Sk1mble/WhisperBox) - Create a dedicated box for whispering to a specific player - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is an excellent idea, but some UX leaves me wanting. Hopefully something similar gets built out in FoundryVTT core.
-- [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves. - Review 2020 Sep 11 - Just did not have a need for this. 
 
 # Additional Resources
 - [All D&D 5e Monster Tokens](https://www.reddit.com/r/dndnext/comments/ij8ljk/i_made_monster_tokens_for_every_monster_in_the/)
