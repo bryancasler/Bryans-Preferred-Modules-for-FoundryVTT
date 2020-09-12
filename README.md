@@ -30,7 +30,7 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
 - [Haste](https://gitlab.com/jesusafier/haste) ([module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit
   - Configure Settings (tab) > Module Settings > Fix CPU on token movement: Checked
   - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked - This will cause Dancing Lights and other animations to stop when the player goes idle. You may not want to use this if you have lots of animations. You may want to use this if most players have slower computers.
-- [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players.
+
 - [Pick-Up-Stix](https://foundryvtt.com/packages/pick-up-stix/) - Create items as Tokens that players can pick up. It will automatically add the items to the player's inventory.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
@@ -169,6 +169,7 @@ These modules are no longer used as they’ve become redundant to features provi
   - GM Only: On
 - [Kobold Press OGL](http://kpogl.wikidot.com/) - All the 5e OGL Content Kobold Press has released - Review 2020 Sep 06 - This is awesome if you want Kobold Press content.
 - [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys) - Review 2020 Sep 06 - The last thing I want is more hotkeys, nice if you do though.
+- [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players. - Retired 2020 Sep 11 - Really loved this module but FPS would drop by 20-40% when a token was selected. 
 - [Mess - Moerills enhancing super-suit(e)](https://github.com/Moerill/mess) - Many features, possible compatibility issues. - Review 2020 Sep 06 - So much work clearly went into this module, but it's stated not caring about creating potential conflicts is too big a risk to have this be a daily driver. Nice work though.
 - [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is such a cool idea but it's so easy to quickly Zoom out that it's not actually that helpful in practice.
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
