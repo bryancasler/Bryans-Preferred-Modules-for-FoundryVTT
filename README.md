@@ -24,6 +24,7 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
   - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
 - [Cursor Zoom](https://foundryvtt.com/packages/cursor-zoom/) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
+- [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
   - Configure Settings (tab) > Module Settings > Hide FX: None
@@ -85,9 +86,7 @@ Once the above settings are put in place, the following will help you up your GM
 None at the moment!
 
 ## Modules Pending Review
-- [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
-- [Tweak Playlist](https://foundryvtt.com/packages/tweakplaylist/) - Make playlists visible only to the GM. Allow for random loop delays and random volume adjustments between repeated plays of a sound. Also adds color to Play and Stop buttons in playlists.
-- [Token Vision Tweaks](https://foundryvtt.com/packages/token-vision-tweaks/) - Provides some tweaks for Token Vision, to allow trading quality for performance, or vice-versa. Also provides a fix for a vision issue present in large open maps which may cause tokens to be able to see through distant walls, as well as a Fog-of-War memory leak.
+None at the moment!
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
@@ -165,6 +164,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Pick-Up-Stix](https://foundryvtt.com/packages/pick-up-stix/) - Create items as Tokens that players can pick up. It will automatically add the items to the player's inventory. - Retired 2020 Sep 12 - Great idea but I want to reduce the number of modules I'm dependent on. And this one was nice, but not something I used regularly. 
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget. - Retired 2020 Sep 11 - Replaced by [Quick Insert](https://foundryvtt.com/packages/quick-insert/)
+- [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click. - Review 2020 Sep 12 - Great idea but not worth having another module for.
 - [Teleport](https://foundryvtt.com/packages/teleport/) - Moves (teleports) one or more tokens from one point to another on the same or different scenes. - Retired 2020 Sep 12 - Great idea but requires just as much effort to set up as it does to do it manually.
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
   - Advanced Macros: Off
@@ -176,9 +176,11 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Token Health](https://github.com/tonifisler/foundry-token-health) - Apply damage/healing to all selected tokens. - Review 2020 Sep 06 - Great idea but overkill and one more keyboard shortcut I would need to remember.
 - [Token Mold](https://github.com/Moerill/token-mold) - For minting tokens that auto append a counter or descriptor to the tokens name. Also can handle automatic token scaling. - Retired 2020 Aug 09 - Great concept but limited utility at the moment. Retiring to reduce UI clutter, will revisit in the future.
 - [Token Owner Selection Tweak](https://foundryvtt.com/packages/token-owner-selection-tweak/) - Prevents player selection (and therefore vision) from changing if a new token they are the owner of is created. [More here](https://www.reddit.com/r/FoundryVTT/comments/iq4kv4/module_fix_vision_going_dark_when_utility_tokens/). - Review 2020 Sep 12 - If your game has a lot of familiars or similar instances, you may want this. Mine does not.
+- [Token Vision Tweaks](https://foundryvtt.com/packages/token-vision-tweaks/) - Provides some tweaks for Token Vision, to allow trading quality for performance, or vice-versa. Also provides a fix for a vision issue present in large open maps which may cause tokens to be able to see through distant walls, as well as a Fog-of-War memory leak. - Review 2020 Sep 12 - Decided I'm trying to avoid as much as possible, modules that change the scene.
 - [Trigger Happy](https://foundryvtt.com/packages/trigger-happy/) - Create triggers for your players to spring traps or anything you can think of. - Retired 2020 Sep 12 - Nothing wrong with this just wanted to reduce the number of modules needed and I can handle this as DM.
 - [Turn Alert](https://github.com/schultzcole/FVTT-Turn-Alert) - Set alerts to trigger on a particular round of combat or on a particular token's turn. - Retired 2020 Aug 09 - Turn altering is handled by Combat Ready
 - [Turn Marker](https://github.com/Brunhine/TurnMarker) - Adds an image under a token who is currently active in the combat tracker. - Retired 2020 Aug 09 - Turn marking is handled by Combat Ready
+- [Tweak Playlist](https://foundryvtt.com/packages/tweakplaylist/) - Make playlists visible only to the GM. Allow for random loop delays and random volume adjustments between repeated plays of a sound. Also adds color to Play and Stop buttons in playlists. - Review 2020 Sep 12 - Love the visual tweaks but not worth having another module.
 - [Vance's Sidebar Resizer](https://github.com/VanceCole/vance-sidebar-resizer) - Allows the sidebar to be resized. - Retired 2020 Sep 06 - Nothing wrong with this, just ended up never needing it.
 - [VTT Modbox](https://gitlab.com/mesfoliesludiques/foundryvtt-modbox) - Creates an input field to add a modifier to the next roll - Review 2020 Sep 06 - I see the value, I just don't need it.
 - [VTT ReturnToSetup](https://github.com/ardittristan/VTTReturnToSetup) - Adds a return to set up button on the main login screen. - Retired 2020 Sep 12 - Cool idea, but the visual interaction that happens when you select this option was a hot mess.
