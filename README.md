@@ -45,6 +45,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
 - [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
+- [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
+  - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
 - [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen.
@@ -78,23 +80,13 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 Once the above settings are put in place, the following will help you up your GM game.
 - Control + Space - This universal search will index ALL contents in FoundryVTT
 - Double click on window title bar - This will cause the title window to collapse
-
-# Other Modules
-- [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - Adds an FPS meter, used for testing and performance debugging.
-  - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
   
 ## Modules In Testing  
 None at the moment!
 
-
-
 ## Modules Pending Review
 - [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
-
 - [Tweak Playlist](https://foundryvtt.com/packages/tweakplaylist/) - Make playlists visible only to the GM. Allow for random loop delays and random volume adjustments between repeated plays of a sound. Also adds color to Play and Stop buttons in playlists.
-
-
-
 - [Token Vision Tweaks](https://foundryvtt.com/packages/token-vision-tweaks/) - Provides some tweaks for Token Vision, to allow trading quality for performance, or vice-versa. Also provides a fix for a vision issue present in large open maps which may cause tokens to be able to see through distant walls, as well as a Fog-of-War memory leak.
 
 ## Modules Scheduled for a Re-Review at a Later Date
