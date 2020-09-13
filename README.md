@@ -44,12 +44,17 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
   - Currently has an annoying bug where when a token is dragged through a wall an error is shown after the token is dropped. The error disappears but the drag distance indicator does not until you drag the token a second time.
 - [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
+- [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 
 ## Quality of Life Improvements For GameMasters
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
 - [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
+- [Cautious Gamemaster's Pack](https://foundryvtt.com/packages/CautiousGamemastersPack/) - Disable GM from speaking as PC tokens, blind chats and rolls made by hidden tokens, disable using up/down arrow keys to recall previous chats so that they can be used to move the text cursor (Toggle).
+ - Configure Settings (tab) > Module Settings > Disable GM speaking as PC tokens: Checked
+ - Configure Settings (tab) > Module Settings > Blind chats made by hidden tokens: Checked
+ - Configure Settings (tab) > Module Settings > Disable Chat Recalls: Checked
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
   - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
@@ -62,6 +67,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
 - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
+  - Configure Settings (tab) > Module Settings > Avatar Token upload director: Pick a directory otherwise it'll use the root
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
 
 ## Dungeon and Dragons 5e (D&D 5e) Specific
@@ -88,8 +94,8 @@ Once the above settings are put in place, the following will help you up your GM
 - Control + Space - This universal search will index ALL contents in FoundryVTT
 - Double click on window title bar - This will cause the title window to collapse
   
-## Modules In Testing  
-[Cautious Gamemaster's Pack](https://foundryvtt.com/packages/CautiousGamemastersPack/) - Disable GM from speaking as PC tokens, blind chats and rolls made by hidden tokens, disable using up/down arrow keys to recall previous chats so that they can be used to move the text cursor (Toggle).
+## Modules In Review  
+None at the moment!
 
 ## Modules Pending Review
 - [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
@@ -168,7 +174,6 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Pick-Up-Stix](https://foundryvtt.com/packages/pick-up-stix/) - Create items as Tokens that players can pick up. It will automatically add the items to the player's inventory. - Retired 2020 Sep 12 - Great idea but I want to reduce the number of modules I'm dependent on. And this one was nice, but not something I used regularly. 
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget. - Retired 2020 Sep 11 - Replaced by [Quick Insert](https://foundryvtt.com/packages/quick-insert/)
-- [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click. - Review 2020 Sep 12 - Great idea but not worth having another module for.
 - [Teleport](https://foundryvtt.com/packages/teleport/) - Moves (teleports) one or more tokens from one point to another on the same or different scenes. - Retired 2020 Sep 12 - Great idea but requires just as much effort to set up as it does to do it manually.
 - [The Furnace](https://foundryvtt.com/packages/furnace/) - Many features to improve the Quality of Life of the DM/Players. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Lot's of rich features, but nothing not already being provided elsewhere.
   - Advanced Macros: Off
