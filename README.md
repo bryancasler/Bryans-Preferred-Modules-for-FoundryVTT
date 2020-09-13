@@ -92,7 +92,8 @@ Once the above settings are put in place, the following will help you up your GM
 None at the moment!
 
 ## Modules Pending Review
-None at the moment!
+- [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
+- [Scene Transitions](https://foundryvtt.com/packages/scene-transitions/) - Adds the ability to create transitions to play before activating scene.
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
