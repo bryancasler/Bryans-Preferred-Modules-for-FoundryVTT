@@ -92,3 +92,13 @@
         flex-basis: auto;
         height: auto;
 }
+
+/* In the Compendium Listing, hide the module it comes from https://d.pr/i/Cpwgv1 */
+footer.compendium-footer {
+    display: none;
+}
+
+/* Now that we are hiding part of each Compendium listing, this will vertically center the label with the icons */
+h4.pack-title {
+    display: flex;
+}
