@@ -89,7 +89,7 @@ Once the above settings are put in place, the following will help you up your GM
 - Double click on window title bar - This will cause the title window to collapse
   
 ## Modules In Testing  
-None at the moment!
+[Cautious Gamemaster's Pack](https://foundryvtt.com/packages/CautiousGamemastersPack/) - Disable GM from speaking as PC tokens, blind chats and rolls made by hidden tokens, disable using up/down arrow keys to recall previous chats so that they can be used to move the text cursor (Toggle).
 
 ## Modules Pending Review
 - [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
