@@ -1,0 +1,141 @@
+{
+   "hidden":{
+      "compendiumList":[
+         
+      ],
+      "titleText":"hidden-compendiums",
+      "_id":"hidden"
+   },
+   "default":{
+      "compendiumList":[
+         
+      ],
+      "titleText":"Default",
+      "_id":"default",
+      "colorText":"#000000"
+   },
+   "cfolder_gy4pvx1udkr":{
+      "titleText":"NPCs",
+      "colorText":"#000000",
+      "compendiumList":[
+         
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_gy4pvx1udkr",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_xkcfj2d3yhr":{
+      "titleText":"Items",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.items",
+         "dnd5e.tradegoods",
+         "world.items-plutonium"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_xkcfj2d3yhr",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_ud18kjqbvj":{
+      "titleText":"Journal",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.rules"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_ud18kjqbvj",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_620kp00r2bs":{
+      "titleText":"Macro",
+      "colorText":"#000000",
+      "compendiumList":[
+         
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_620kp00r2bs",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_7siqj3n487b":{
+      "titleText":"Classes",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.classes",
+         "dnd5e.classfeatures"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_7siqj3n487b",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_hxd2vio0cwl":{
+      "titleText":"Monsters",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.monsters",
+         "dnd5e.monsterfeatures"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_hxd2vio0cwl",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_7u8racc0lr9":{
+      "titleText":"Spells",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.spells"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_7u8racc0lr9",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   },
+   "cfolder_360nbr856jl":{
+      "titleText":"Heros",
+      "colorText":"#000000",
+      "compendiumList":[
+         "dnd5e.heroes"
+      ],
+      "folderList":[
+         
+      ],
+      "_id":"cfolder_360nbr856jl",
+      "pathToFolder":[
+         
+      ],
+      "folderIcon":null
+   }
+}
