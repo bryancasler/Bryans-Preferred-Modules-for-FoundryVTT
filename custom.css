@@ -93,13 +93,50 @@
         height: auto;
 }
 
-/* In the Compendium Listing, hide the module it comes from https://d.pr/i/Cpwgv1 */
-footer.compendium-footer {
+/* Move the Pack entries to be on a single line */
+#compendium li.compendium-pack{
+    display: flex;
+}
+
+/* Move the Pack title to be first in its appearance */
+#compendium h4.pack-title {
+    order: 1;
+    display: flex;
+    margin-right: 0.25rem;
+}
+
+/* Move the Compendium footer to be second in its appearance */
+#compendium footer.compendium-footer {
+    order: 2;
+    opacity: 0.5;
+}
+
+/* No need for the compendium Entity type */
+#compendium span.entity-type {
     display: none;
 }
 
 /* Now that we are hiding part of each Compendium listing, this will vertically center the label with the icons */
-h4.pack-title {
+#compendium h4.pack-title {
     display: flex;
-    margin: 0;
+    margin: 0 0.5rem 0 0;
+}
+
+/* Make the Compendium entries more compact */
+#compendium h3{
+    border: none !important;
+    background: none;
+}
+
+/* Make the Compendium entries more compact */
+#compendium li.compendium-pack{
+    padding: 0;
+    border: none !important;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+/* Add some space between compendium groups */
+#compendium ol.compendium-list{
+    margin-bottom: 0.5rem;
 }
