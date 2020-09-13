@@ -125,7 +125,7 @@
 /* Make the Compendium entries more compact */
 #compendium h3{
     border: none !important;
-    background: none;
+    background: none !important;
 }
 
 /* Make the Compendium entries more compact */
