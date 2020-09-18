@@ -45,6 +45,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 - [Zoom/Pan Option](https://github.com/itamarcu/ZoomPanOptions) - When zooming in and out, the camera will stay focused on the cursor.
+  - Configure Settings (tab) > Module Settings > Zoom Speed: 7
 
 ## Quality of Life Improvements For GameMasters
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
