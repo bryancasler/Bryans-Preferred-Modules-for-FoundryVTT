@@ -26,7 +26,6 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Disable Timer: Checked
   - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
   - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
-- [Cursor Zoom](https://foundryvtt.com/packages/cursor-zoom/) - Mouse scroll zooming will center around the cursor instead of around the center of the screen.
 - [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world.
   - My [custom.css](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/blob/master/custom.css) is part of this repo.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
@@ -45,6 +44,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Currently has an annoying bug where when a token is dragged through a wall an error is shown after the token is dropped. The error disappears but the drag distance indicator does not until you drag the token a second time.
 - [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
+- [Zoom/Pan Option](https://github.com/itamarcu/ZoomPanOptions) - When zooming in and out, the camera will stay focused on the cursor.
 
 ## Quality of Life Improvements For GameMasters
 - [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
@@ -136,6 +136,7 @@ These modules are no longer used as they’ve become redundant to features provi
 - [Compendium Image Mapper](https://gitlab.com/Wilco7302/compendium-image-mapper) - select a folder containing images, and then automatically search for compendium entries that best match your images. - Review 2020 Sep 06 - Fantastic module if you have a huge library of well named images you want mapped to compendium entries. I do not.
 - [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/) - Adds a nested folder structure, and option for hiding entries, for your compendiums. - Retired 2020 Sep 12 - Loved this, but it's more than I need and I want to keep the Module stack as tight as possible.
 - [ConditionIconHoverZoom](https://github.com/Sparkasaurusmex/ConditionIconHoverZoom) - Makes condition icons more legible by increasing their size. Also enlarges and makes them opaque on hover. - Review 2020 Sep 06 - I thought I wanted this when I first saw it, but I don't really need it.
+- [Cursor Zoom](https://foundryvtt.com/packages/cursor-zoom/) - Mouse scroll zooming will center around the cursor instead of around the center of the screen. - Retired 2020 Sep 18 - Replaced by [Zoom/Pan Options](https://github.com/itamarcu/ZoomPanOptions)
 - [Dancing Lights v2](https://github.com/BlitzKraig/fvtt-DancingLights) - Better ambient lighting & Token light toolkit - Suggested by jniezink on the FoundryVTT Subreddit - Retired 2020 Sep 12 - Worked great but I wanted to reduce the number of modules I was dependent on.
   - This feature will be coming soon to FoundryVTT 7 core. Once it is, this module can be removed.
 - [Dice Tray](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) - Adds a Dice Tray below the chat. - Retired 2020 Sep 06 - Nothing wrong with this, just felt like overkill. Everything has an option to autoroll, or a user can type "/roll 1d20+2" if they need to. Wasn't saving any time.
