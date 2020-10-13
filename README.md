@@ -56,7 +56,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Configure Settings (tab) > Module Settings > Blind chats made by hidden tokens: Checked
   - Configure Settings (tab) > Module Settings > Disable Chat Recalls: Checked
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
-- [VTT FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
+- [FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
   - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
