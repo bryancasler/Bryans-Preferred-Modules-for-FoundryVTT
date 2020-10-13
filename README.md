@@ -99,6 +99,7 @@ Once the above settings are put in place, the following will help you up your GM
 None at the moment!
 
 ## Modules Pending Review
+- [Token HUD Wildcard](https://github.com/javieros105/FVTT-TokenHUDWildcard) - Adds a button to the Token HUD if the corresponding token has Randomized Wildcard Images activated.
 - [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
 - [Scene Transitions](https://foundryvtt.com/packages/scene-transitions/) - Adds the ability to create transitions to play before activating scene.
 
