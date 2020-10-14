@@ -28,7 +28,7 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
 - [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world.
   - My [custom.css](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/blob/master/custom.css) is part of this repo.
-- [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
+- (No longer needed in v7) [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
   - Configure Settings (tab) > Module Settings > Hide FX: None
   - Configure Settings (tab) > Module Settings > Sound Effects: Unchecked
@@ -86,6 +86,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Could be helpful for Pathfinder 2e, but not needed for D&D 5e as I have imagery for nearly every entry in its database.
 
 ## FoundryVTT Core Settings
+- Left-Click to Release Objects
 - Configure Audio / Video > Audio / Video Conference Mode: Disabled
   - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
 - Configure Settings (tab) > Configure frame rate: 30fps - OPTIONAL. This drops max framerate, but can help create a more consistent gaming experience
