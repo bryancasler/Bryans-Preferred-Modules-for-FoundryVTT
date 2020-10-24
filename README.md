@@ -1,18 +1,27 @@
 
 
+
 <!-- + Bryan's Preferred FoundryVTT Modules + -->
 
 <img src="https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT%20-%20Full%20-%20Social%20-%20On%20Dark.png" width="0" height="0">
 
 ![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT%20-%20Title%20-%20On%20White.png)
 
+**10/24 Updated for Foundry 0.7.5**
+
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
 # Video Walkthrough
 This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
-- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - There is no sound, play your own music :)
+- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - There is no sound, play your own music :) This was done on FoundryVTT v0.6.x but the process is identical for v0.7.x
   - 00:00 - 05:00 - Enabling and Configuring Modules
+
+# FoundryVTT Core Settings
+- Core Settings > Token Drag Vision: Checked
+- Core Settings > Left-Click to Release Objects: Checked
+- Configure Audio / Video > Audio / Video Conference Mode: Unchecked
+  - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
 
 # Preferred FoundryVTT Modules
 
@@ -26,9 +35,6 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Disable Timer: Checked
   - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
   - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
-- [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world.
-  - My [custom.css](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/blob/master/custom.css) is part of this repo.
-- (No longer needed in v7) [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map.
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
   - Configure Settings (tab) > Module Settings > Hide FX: None
   - Configure Settings (tab) > Module Settings > Sound Effects: Unchecked
@@ -45,11 +51,9 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
 - [Zoom/Pan Option](https://github.com/itamarcu/ZoomPanOptions) - When zooming in and out, the camera will stay focused on the cursor.
-  - Configure Settings (tab) > Module Settings > Zoom Speed: 7
 
 ## Quality of Life Improvements For GameMasters
-- [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within Foundy VTT into a single distributable file that can be shared.
-- [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu.
+- [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within FoundryVTT into a single distributable file that can be shared.
 - [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
 - [Cautious Gamemaster's Pack](https://foundryvtt.com/packages/CautiousGamemastersPack/) - Disable GM from speaking as PC tokens, blind chats and rolls made by hidden tokens, disable using up/down arrow keys to recall previous chats so that they can be used to move the text cursor (Toggle).
   - Configure Settings (tab) > Module Settings > Disable GM speaking as PC tokens: Checked
@@ -57,23 +61,15 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Configure Settings (tab) > Module Settings > Disable Chat Recalls: Checked
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
-  - There is also [FPS Meter](https://foundryvtt.com/packages/fpsmeter/) which is similar.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
-- [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map.
-- [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen.
-- [Lock View](https://github.com/CDeenen/LockView) - IN PERSON ONLY: Makes playing using a digital playmat, such as a horizontally mounted TV, easier.
-- [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
-  - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it.
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Token Info Icons](https://github.com/jopeek/fvtt-token-info-icons) - Displays Speed, AC, and Passive Perception on Tokens for the GM.
-- [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
+- **2020 Oct 22 WARNING BROKEN in 0.7.x - Unable to save game or module settings while this module is Active** - [Virtual Tabletop Assets - Tokenizer](https://www.vttassets.com/assets/vtta-tokenizer) - A tool to help generate token “token” images and their avatars.
   - Configure Settings (tab) > Module Settings > Avatar Token upload director: Pick a directory otherwise it'll use the root
   - "[data] my-assets/player-characters/autogenerated-tokens"
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
 
 ## Dungeon and Dragons 5e (D&D 5e) Specific
-- [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord
-- [Not Enough NPCs](https://github.com/ardittristan/VTTNPCGen) - NPC Generator
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
@@ -81,20 +77,14 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 ## Pathfinder 2e (P2E) Specific
 - [Pathfinder 2e Quick Rolls](https://gitlab.com/mcarthur.alford/pf2qr) - Adds features to speed up rolling in chat.
 - [Pathfinder Ui](https://gitlab.com/sasmira/pathfinder-ui) - Theme for Pathfinder 1e and 2e.
-- [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System.
 - [Virtual Tabletop Assets - Iconizer](https://www.vttassets.com/assets/vtta-iconizer) - Whenever an item is created or updated, Iconizer looks up its name in its dictionaries. If it finds an entry, it will use the icon references there to update the image of that item.
   - Could be helpful for Pathfinder 2e, but not needed for D&D 5e as I have imagery for nearly every entry in its database.
 
-## FoundryVTT Core Settings
-- Left-Click to Release Objects
-- Configure Audio / Video > Audio / Video Conference Mode: Disabled
-  - Even having this enabled and not using it will cause idle FPS to drop 30-50%. Use Discord for now.
-- Configure Settings (tab) > Configure frame rate: 30fps - OPTIONAL. This drops max framerate, but can help create a more consistent gaming experience
-
 # Quick References
 Once the above settings are put in place, the following will help you up your GM game.
-- Control + Space - This universal search will index ALL contents in FoundryVTT
-- Double click on window title bar - This will cause the title window to collapse
+- Command + Space (Mac) - Quick Inserts universal search (Screenshot: https://d.pr/v/yiBf3H)
+- Double click on window title bar - This will cause the title window to collapse (Screenshot: https://d.pr/v/P64OND)
+- Right click on the tab of the sidebar to pop it out (Screenshot: https://d.pr/v/OVcyYu)
   
 ## Modules In Review  
 None at the moment!
@@ -109,7 +99,8 @@ None at the moment!
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
   - This Module inserts images as base64 encoded data which can grow the chat log to the point it can start to impact gameplay (https://github.com/bmarian/chat-images/issues/7). This could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. - Flagged by an Anonymous user on The Forge Discord
 - [Compendium Browser](https://foundryvtt.com/packages/compendium-browser/) - Easily browse and filter spells as well as NPCs loaded from the compendium. - Review 2020 Sep 06 - Seems incredibly useful but there is currently an issue with Shared compendiums that can crash a game (https://github.com/syl3r86/compendium-browser/issues/13). Will revisit once it's had time to stew some more.
-- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Token toolstips and Quality of Life enhancements - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - Tons of usefull enhancements but a bit overkill. Some of the tooltip options that it can show seem unique to this module and I haven't seeen them elsewhere. There is an open issue to split the module so it's more granular, hopefully that happens.
+- [Cozy Player](https://foundryvtt.com/packages/cozy-player/) - Token tools tips and Quality of Life enhancements - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - Tons of useful enhancements but a bit overkill. Some of the tooltip options that it can show seem unique to this module and I haven't seen them elsewhere. There is an open issue to split the module so it's more granular, hopefully that happens.
+- [Darker Vision for 5e](https://foundryvtt.com/packages/darker-vision-for-5e/) - Adjust's Foundry's handling of Darker Vision to match D&D 5e's rules as written. - Suggested by LorduFreeman on The Foundry Discord - Retired 2020 Oct 22 - Doesn't currently work with 0.7.x and hopefully the lighting changes can be adopted by the 5e system and make the need for this irrelevant.
 - [Drag Upload](https://foundryvtt.com/packages/dragupload/) - Suggested by azath0ught on the FoundryVTT Subreddit - Review 2020 Sep 06 - In concept I like it, but has the potential for too many mistakes.
 - [Group Initiative](https://foundryvtt.com/packages/group-initiative/) - Suggested by LorduFreeman on The Foundry Discord - Review 2020 Sep 06 - Great idea but seems to be broken (https://github.com/tonifisler/foundry-group-initiative/issues/4).
 - [Group Roll](https://github.com/trdischat/grouproll) - Facilitates D&D 5e and Pathfinder 2e Group Roll Checks and Saves. - Retired 2020 Sep 12 - Had no problems with this but decided having everyone roll individually was more fun. 
@@ -122,6 +113,8 @@ None at the moment!
   - Currently permissions are not respected which could cause unintended spoilers. Waiting for this issue to resolve before adding it as a daily driver. https://github.com/Sigafoos/journal-links/issues/6
   - Additionally some entities are not being cross linked. https://github.com/Sigafoos/journal-links/issues/7
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests. - Review 2020 Sep 06 - This looks incredible but a number of outstanding issues has me putting this aside to revisit at a later date.
+- [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
+  - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it. - Review 2020 Oct 22 - I LOVED! this module but rant into too many issues and the repo issue que is stacking up with more that are going unanswered. Until more polish happens and active development returns, this module is a liability.
 - [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by KaKaRoTo on The Forge Discord and jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Love it, but the UI is so obtuse, I can't remember what each shape means and so it's not actually helpful.
 - [Popout Resizer](https://github.com/Cardagon/popout-resizer) - Give the users the ability to resize their pop-out windows from the side toolbar. - Retired 2020 Sep 06 - Haven't needed this, but might as things continue to get more complicated. Setting this for Re-Review.
 - [Sheet To Token](https://foundryvtt.com/packages/sheet-to-token/) - Automatically updates an actor's Prototype Token to match its actor image when updated. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Fantastic idea, but haven't actually needed it in practice so far.
@@ -131,6 +124,11 @@ None at the moment!
 
 ## Modules Reviewed or Retired
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
+
+- [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu. - Retired 2020 Oct 22 - Turns out I'm fine letting players know a private roll happened, they just don't get to know anything about it unless I reveal it to them.
+- [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world. - Retired 2020 Oct 22 - Had a great run, but many enough of these changes are part of Foundry v0.7.x it's no longer worth running custom CSS for.
+   - My [custom.css](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/blob/master/custom.css) is part of this repo.
+- [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map. - Retired 2020 Oct 22 - Essential for Foundry v0.6.x but no longer needed with Foundry v0.7.x. part of core now Core Settings > Left-Click to Release Objects: Checked
 - [Ambient Doors](https://github.com/EndlesNights/ambientdoors) - Customized sounds effects that trigger for all users when interacting with doors. - Retired 2020 Sep 12 - Worked great but I wanted to reduce the number of modules I was dependent on.
 - [Batch Permission Change By Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/) - Adds a context option to folders in Items, Journals, and Roll to change the permission of each entity(Foundry's codeword for Item, Journal Entry, or Roll Table) inside the folder. - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Not a bad idea, but haven't had the need for it.
 - [Better NPC Sheet 5e](https://github.com/syl3r86/BetterNPCSheet5e) - Review 2020 Sep 06 - Nice for what it does but superseded by Tidy 5e Sheet
@@ -156,15 +154,18 @@ These modules are no longer used as they’ve become redundant to features provi
 - [FoundryVTT Image Drop](https://gitlab.com/mesfoliesludiques/foundryvtt-image-drop) - Allows dropping Journal Entry to the canvas as Tile - Review 2020 Sep 12 - Cool idea but I have no need of this.
 - [Foundry VTT Modules for DnD 5E](https://github.com/foundry-vtt-community/modules/tree/master/Foundry%20VTT%20Modules%20for%20DnD%205E) - Marked for review, seems outdated. - Review 2020 Sep 06 - This was a list of modules with many of them that seem to be in FoundryVTT core now and other just outdated for problems that no longer exist.
 - [GM Scene Background](https://github.com/death-save/gm-bg) - Allows GMs to set a GM-only background image. - Retired 2020 Sep 12 - Loved this but just reducing the number of modules I have installed and this one I thought I would use but never ended up needing. 
+- [GM Token-Drag Visibility](https://github.com/SteffanPoulsen/token-drag-visibility) - Module that disables the vision limitation when dragging a token as a GM. Useful for moving players between floors on the same map. - Retired 2020 Oct 22 - Foundry v0.7.x has this under Core Settings > Token Drag Vision: Checked
 - [Health Estimate](https://gitlab.com/tsuki.no.mai/healthestimate) - Shows estimated health level of an enemy on mouseover. - Retired 2020 Sep 06 - Nothing wrong this, just felt like overkill given all the other info that can be so quickly gleaned.
   - GM Only: On
 - [Haste](https://gitlab.com/jesusafier/haste) ([module.json](https://gitlab.com/jesusafier/haste/-/raw/master/module.json)) - Performance enhancement and tweaks. - Suggested by jniezink on the FoundryVTT Subreddit - Retired 2020 Sep 06 - Loved this, but ended up not really needing it. Also hopefully many of these issue will be resolved with the 7x release.
   - Configure Settings (tab) > Module Settings > Fix CPU on token movement: Checked
   - Configure Settings (tab) > Module Settings > Experimental Adaptive GPU fps tweak: Checked - This will cause Dancing Lights and other animations to stop when the player goes idle. You may not want to use this if you have lots of animations. You may want to use this if most players have slower computers.
 - [Kobold Press OGL](http://kpogl.wikidot.com/) - All the 5e OGL Content Kobold Press has released - Review 2020 Sep 06 - This is awesome if you want Kobold Press content.
+- [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Fixes issues where the some Form Applications put the submit button off screen. - Retired 2020 Oct 22 - Foundry v0.7.x has improved styling, removing this for now.
 - [Layer Hotkeys](https://github.com/Moerill/Layer-Hotkeys) - Review 2020 Sep 06 - The last thing I want is more hotkeys, nice if you do though.
 - [Lazy Money](https://github.com/DeVelox/lazymoney) - Easily add or remove currency with automatic conversion and no overdraft. - Review 2020 Sep 12 - Nice quality of life improvement, but not worth adding a whole module for.
 - [Less Fog](https://github.com/trdischat/lessfog) - Tweaks fog of war visibility for GM and Players. - Retired 2020 Sep 11 - Really loved this, but trying to cut as many modules as possible. Especially those that alter the rendering of the scene.
+- [Lock View](https://github.com/CDeenen/LockView) - IN PERSON ONLY: Makes playing using a digital playmat, such as a horizontally mounted TV, easier. - Retired 2020 Oct 22 - I think this is unnecessary, you can just have a second invisible player you keep open in another tap.
 - [Maestro](https://github.com/death-save/maestro) - Adds player hype tracks, item tracks, combat tracks, and more. - Retired 2020 Sep 12 - Loved it, but wanted to reduce the number of modules I was dependent on
   - Configure Settings (tab) > Module Settings > Enable Hype Track: Checked
   - Configure Settings (tab) > Module Settings > Enable Combat Track: Checked
@@ -176,7 +177,9 @@ These modules are no longer used as they’ve become redundant to features provi
 - [MiniMap](https://gitlab.com/jesusafier/minimap) - Shows a minimap - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - This is such a cool idea but it's so easy to quickly Zoom out that it's not actually that helpful in practice.
 - [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the appearance of D&D 5e monster statblocks. - Review 2020 Sep 12 - I love it but I'm sticking with just Tidy 5e Sheet for now.
 - [Multilevel Tokens](https://foundryvtt.com/packages/multilevel-tokens/) - Allows you to mark out linked regions on the map. Tokens present in the source region will be automatically cloned to the target region, and kept up-to-date with the original, mirroring movement and other changes. - Reviewed 2020 Sep 12 - Cool idea, I just have no use for it.
+- [Not Enough NPCs](https://github.com/ardittristan/VTTNPCGen) - NPC Generator - Retired 2020 Oct 22 - Fun idea, just didn't end up using it in my games as much as I expected.
 - [Pick-Up-Stix](https://foundryvtt.com/packages/pick-up-stix/) - Create items as Tokens that players can pick up. It will automatically add the items to the player's inventory. - Retired 2020 Sep 12 - Great idea but I want to reduce the number of modules I'm dependent on. And this one was nice, but not something I used regularly. 
+- [PF2e GM Screen](https://gitlab.com/atakanaltiner6/pf2e-gm-screen/) - A GM Screen for PF2e Game System. - Retired 2020 Oct 22 - I should have used it, I never did. Ended up just using Quick Insert to find something or Googled it in a new tab.
 - [PopOut!](https://github.com/kakaroto/fvtt-module-popout) - Lets you pop out actor sheets and journal entries into their own windows. - Retired 2020 Sep 06 - Nothing wrong with this but it wasn't actually needed in the end.
 - [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) - Press (control + space) to quickly search for any entity by name via a handy auto-complete widget. - Retired 2020 Sep 11 - Replaced by [Quick Insert](https://foundryvtt.com/packages/quick-insert/)
 - [Show Art](https://foundryvtt.com/packages/token-hud-art-button/) - Adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click. - Retired 2020 Sep 13 - Seems like you can do this without the need for another module.
