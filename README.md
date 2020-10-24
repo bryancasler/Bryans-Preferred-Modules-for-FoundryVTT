@@ -1,6 +1,7 @@
 
 
 
+
 <!-- + Bryan's Preferred FoundryVTT Modules + -->
 
 <img src="https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT%20-%20Full%20-%20Social%20-%20On%20Dark.png" width="0" height="0">
@@ -40,10 +41,12 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Sound Effects: Unchecked
   - Configure Settings (tab) > Module Settings > Shadows Quality: None
   - Configure Settings (tab) > Module Settings > Advanced Lighting: Unchecked
+- [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects to the map
 - [Illandril's Chat Enhancements](https://foundryvtt.com/packages/illandril-chat-enhancements/) - Enhances the chat by showing player names in IC messages, replacing actor names with token names, and showing who you are currently speaking as. It also simulates hovering over a token when hovering over a chat message associated with a token.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
 - [One Journal](https://foundryvtt.com/packages/one-journal/) - Provides a unified view for authoring journals
    - Configure Settings (tab) > Module Settings > Button in journal directory: Checked
+- [Ping](https://foundryvtt.com/packages/pings/) - Adds the ability to ping on the map to highlight points of interest. Default is Left Click to ping, Shift + Left Click to move everyone's screen to your ping.
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert) - Quick Insert (control + space) provides a context-aware search/autocomplete tool that can be used
 in most parts of FoundryVTT. Find actors, items, spells etc. and insert them wherever you need them right now - the map, character sheets, roll tables, journals, you name it. - Suggested by LorduFreeman on The Foundry Discord
 - [Show Drag Distance](https://github.com/wsaunders1014/showdragdistance) - Shows distance you've dragged the token as if you used the Ruler tool.
@@ -70,6 +73,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - NOTE: If you try to edit an actor who is in already placed in a scene, it will edit their Compendium entry but not the version of them already placed into the scene.
 
 ## Dungeon and Dragons 5e (D&D 5e) Specific
+- [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests.
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
 - [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
   - Configure Settings (tab) > Module Settings > GM Uses Inventory
@@ -85,6 +89,7 @@ Once the above settings are put in place, the following will help you up your GM
 - Command + Space (Mac) - Quick Inserts universal search (Screenshot: https://d.pr/v/yiBf3H)
 - Double click on window title bar - This will cause the title window to collapse (Screenshot: https://d.pr/v/P64OND)
 - Right click on the tab of the sidebar to pop it out (Screenshot: https://d.pr/v/OVcyYu)
+- Ping with Left Click, Shift + Left Click to move everyone's screen to your ping
   
 ## Modules In Review  
 None at the moment!
@@ -107,12 +112,10 @@ None at the moment!
 - [Forien's Quest Log](https://foundryvtt.com/packages/forien-quest-log/) Provides comprehensive Quest Log system for players and Game Masters - Suggested by jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Looks awesome for a big epic game, but seems like overkill for the ones I'm running. Will revisit at a later date.
 - [Forien's Unidentified Items](https://github.com/Forien/foundryvtt-forien-unidentified-items) - Handle unidentified items and their identification. - Review 2020 Sep 06 - Love everything about this but don't have a need for it. Going to place this for re-review at a later time.
 - [Foundry VTT Macros Repository](https://github.com/foundry-vtt-community/macros) - Foundry community-contributed macros. - Review 2020 Sep 06 - Was looking into this to help out with thing like "Barbarian Rage" but I'd rather just wait at the moment and see if these start to sneak their way in without the need for Macro's.
-- [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects. - Review 2020 Sep 06 - Seems like an incredible module, but there are 20+ outstanding issues on the repository. Too risky an interuption to regular gameplay in its current state.
 - [Grid Scaler](https://github.com/UberV/scaleGrid) - Adds tool to help to set the Foundry grid on the background image - Review 2020 Sep 06 - Seems super helpful, but a number of issues exist. Defintely going to revisit.
 - [Journal Links](https://foundryvtt.com/packages/journal-links/) - Links entities (journal entries, actors and items) that reference each other. - Review 2020 Sep 07
   - Currently permissions are not respected which could cause unintended spoilers. Waiting for this issue to resolve before adding it as a daily driver. https://github.com/Sigafoos/journal-links/issues/6
   - Additionally some entities are not being cross linked. https://github.com/Sigafoos/journal-links/issues/7
-- [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests. - Review 2020 Sep 06 - This looks incredible but a number of outstanding issues has me putting this aside to revisit at a later date.
 - [Music Assistant](https://github.com/temportalflux/MusicAssist) ([module.json](https://raw.githubusercontent.com/temportalflux/MusicAssist/master/module.json))- Adds support for youtube tracks in audio playlists.
   - Note: I've had issues with music not playing and having to stop/start tracks. Still worth it. - Review 2020 Oct 22 - I LOVED! this module but rant into too many issues and the repo issue que is stacking up with more that are going unanswered. Until more polish happens and active development returns, this module is a liability.
 - [Permission Viewer](https://foundryvtt.com/packages/permission_viewer/) - Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player. - Suggested by KaKaRoTo on The Forge Discord and jniezink on the FoundryVTT Subreddit - Review 2020 Sep 06 - Love it, but the UI is so obtuse, I can't remember what each shape means and so it's not actually helpful.
