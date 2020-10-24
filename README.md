@@ -37,10 +37,17 @@ This walkthrough shows the initial set up for creating a D&D 5e world. On Foundr
   - Configure Settings (tab) > Module Settings > Show End Turn Dialog: Checked
   - Configure Settings (tab) > Module Settings > Ticking Sound: Unchecked
 - [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) - Adds the ability to show a 3D dice simulation when a roll is made.
-  - Configure Settings (tab) > Module Settings > Hide FX: None
+  - Configure Settings (tab) > Module Settings > Display chat message immediately
+  - (OPTIONAL) Configure Settings (tab) > Module Settings > Dice Presets (Facets): Standard
+  - (OPTIONAL) Configure Settings (tab) > Module Settings > Theme: Blood Moon
+  - (OPTIONAL) Configure Settings (tab) > Module Settings > Texture: Skulls
+  - (OPTIONAL) Configure Settings (tab) > Module Settings > Material: Metal
+  - Configure Settings (tab) > Module Settings > Automatically Hide: Checked
+  - Configure Settings (tab) > Module Settings > Hide FX: FadeOut
   - Configure Settings (tab) > Module Settings > Sound Effects: Unchecked
-  - Configure Settings (tab) > Module Settings > Shadows Quality: None
-  - Configure Settings (tab) > Module Settings > Advanced Lighting: Unchecked
+  - Configure Settings (tab) > Module Settings > Animation Speed: 2x
+  - Configure Settings (tab) > Module Settings > Shadows Quality: High
+  - Configure Settings (tab) > Module Settings > Advanced Lighting: Checked
 - [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) - Adds various special effects to the map
 - [Illandril's Chat Enhancements](https://foundryvtt.com/packages/illandril-chat-enhancements/) - Enhances the chat by showing player names in IC messages, replacing actor names with token names, and showing who you are currently speaking as. It also simulates hovering over a token when hovering over a chat message associated with a token.
 - [Polyglot](https://foundryvtt.com/packages/polyglot/) - Talk to others using a language your selected character can understand and scrambles in-character text you can't understand. - Suggested by jniezink on the FoundryVTT Subreddit
