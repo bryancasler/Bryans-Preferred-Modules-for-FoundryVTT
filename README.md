@@ -8,7 +8,7 @@
 
 ![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT%20-%20Title%20-%20On%20White.png)
 
-**2020 Oct 24 - Updated for Foundry 0.7.5**
+**2020 Oct 24 - Updated for Foundry 0.7.5** - Note, when updating download the installer from FoundryVTT instead of just clicking update in Foundry. This is because just [clicking update won't update the built in copy of Chrome and Electron](https://youtu.be/pVOmRAMKm4E?t=142), updating those can only be done by using the installer.
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
