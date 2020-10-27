@@ -139,3 +139,50 @@
 #compendium ol.compendium-list{
     margin-bottom: 0.5rem;
 }
+
+
+/*
+ **************************************************
+ * Music Controls to make the playlist responsive
+ **************************************************
+ */
+
+/* Ensure Playlist titles are always visible */
+#playlists li.playlist .playlist-header .playlist-name{
+    max-width: calc(100% - 100px);
+    background-image: linear-gradient(90deg,#f0f0e0 92.5%,rgba(0,0,0,0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Ensure the Playlist collapse button is never faded */
+#playlists li.playlist .playlist-header .playlist-name i.fa{
+    -webkit-text-fill-color: #999999;
+}
+
+/* The playlist should never be wider than the are it's contained within */
+#playlists li.playlist .playlist-sounds{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* Fade Trac text at the end of the row and ensure its width never exceeds what's possible */
+#playlists li.sound .sound-name{
+    background-image: linear-gradient(90deg,#ffffff 92.5%,rgba(0,0,0,0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    max-width: calc(100% - 152px);
+}
+
+#playlists li.sound .sound-controls{
+    display: inline-flex;
+    max-width: 152px;
+}
+
+/* Makes the stop button red */
+#playlists .fa-square:before{
+    color: red;
+}
+
+
