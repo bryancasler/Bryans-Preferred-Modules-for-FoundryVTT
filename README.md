@@ -63,6 +63,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Currently has an annoying bug where when a token is dragged through a wall an error is shown after the token is dropped. The error disappears but the drag distance indicator does not until you drag the token a second time.
 - [Show Notes](https://github.com/shawndibble/foundryvtt-show-notes) - Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 - [Token Action HUD](https://github.com/espositos/fvtt-tokenactionhud) - Floating HUD, showing common actions for a controllable token.
+- [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
+  - Configure Settings (tab) > Module Settings > GM Uses Inventory
 - [Zoom/Pan Option](https://github.com/itamarcu/ZoomPanOptions) - When zooming in and out, the camera will stay focused on the cursor.
 
 ## Quality of Life Improvements For GameMasters
@@ -95,8 +97,6 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 ## Dungeon and Dragons 5e (D&D 5e) Specific
 - [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) - Adds an additional NPC sheet which can be used for loot containers such as chests.
 - [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) - D&D 5e Only. An alternative Character Sheet
-- [Torch](https://foundryvtt.com/packages/torch/) - Adds a HUD button to toggle light of a specific radius.
-  - Configure Settings (tab) > Module Settings > GM Uses Inventory
   
 ## Pathfinder 2e (P2E) Specific
 - [Pathfinder 2e Quick Rolls](https://gitlab.com/mcarthur.alford/pf2qr) - Adds features to speed up rolling in chat.
