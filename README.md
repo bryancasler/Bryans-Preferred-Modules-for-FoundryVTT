@@ -78,6 +78,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
 - [Sound Board by Blitz](https://github.com/BlitzKraig/fvtt-SoundBoard) - An easy to use soundboard for the GM.
+  - Configure Settings (tab) > Module Settings > Custom SoundBoard Directory: my-assets/audio/soundboard/
+  - Configure Settings (tab) > Module Settings > Source Type: Data
 - [Tokenizer - v0.7.5 edition](https://foundryvtt.com/packages/vtta-tokenizer/) (Formerly: Virtual Tabletop Assets - Tokenizer) - A tool to help generate token “token” images and their avatars.
   - NOTE: If you had previously used "Virtual Tabletop Assets - Tokenizer" you need to disable and uninstall it, then install and enable this new module.
   - Configure Settings (tab) > Module Settings > Avatar Token upload director: Pick a directory otherwise it'll use the root
