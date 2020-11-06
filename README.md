@@ -11,6 +11,9 @@
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
+# Quick Start Guide
+- Install [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) then import my latest settings here "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)"
+
 # Video Walkthrough
 This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
 
@@ -64,7 +67,6 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
 - [Zoom/Pan Option](https://github.com/itamarcu/ZoomPanOptions) - When zooming in and out, the camera will stay focused on the cursor.
 
 ## Quality of Life Improvements For GameMasters
-- [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within FoundryVTT into a single distributable file that can be shared.
 - [Background Volume](https://github.com/mtvjr/background-volume) - Allows the DM to configure the volume of a scene's background
 - [Bellows](https://github.com/casualchameleon/Bellows) - Adds support for youtube tracks and playlists, allowing users to grab their favorite youtube soundtracks and save them as tracks.
 - [Cautious Gamemaster's Pack](https://foundryvtt.com/packages/CautiousGamemastersPack/) - Disable GM from speaking as PC tokens, blind chats and rolls made by hidden tokens, disable using up/down arrow keys to recall previous chats so that they can be used to move the text cursor (Toggle).
@@ -72,6 +74,8 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Configure Settings (tab) > Module Settings > Blind chats made by hidden tokens: Checked
   - Configure Settings (tab) > Module Settings > Disable Chat Recalls: Checked
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
+- [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) - Allows for copying TXT/JSON list of installed and enabled system/modules and their versions.
+  - Checkout the "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)" for an export of my latest settings.
 - [FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
 - [QuickSceneView](https://gitlab.com/reichler/quicksceneview) Foundry VTT module that adds a Scene Directory context menu to directly view a scene. - Suggested by jniezink on the FoundryVTT Subreddit
@@ -142,6 +146,7 @@ Once the above settings are put in place, the following will help you up your GM
 These modules are no longer used as they’ve become redundant to features provided by other modules, they caused other issues (e.g. lag), or there was nothing wrong with them but I just didn't find their use out weighed creating a more complex buildout.
 
 - [Actually Private Rolls](https://github.com/syl3r86/Actually-Private-Rolls) - Hides Private GM Rolls completely rather than just obfuscating the result. This can be toggled on or off in the Settings Menu. - Retired 2020 Oct 22 - Turns out I'm fine letting players know a private roll happened, they just don't get to know anything about it unless I reveal it to them.
+- [Adventure Importer / Exporter](https://foundryvtt.com/packages/adventure-import-export/) - OPTIONAL: Allows content creators to package multiple assets within FoundryVTT into a single distributable file that can be shared. - Retired 2020 Nov 05 - Replaced by Forien's Copy Environment.
 - [Custom CSS](https://foundryvtt.com/packages/custom-css/) - OPTIONAL: Allows a user to setup custom CSS rules in a world. - Retired 2020 Oct 22 - Had a great run, but many enough of these changes are part of Foundry v0.7.x it's no longer worth running custom CSS for.
    - My [custom.css](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/blob/master/custom.css) is part of this repo.
 - [Deselection](https://github.com/Sky-Captain-13/foundry/tree/master/deselection) - Allows you to deselect a token or tokens by clicking any empty spot on the map. - Retired 2020 Oct 22 - Essential for Foundry v0.6.x but no longer needed with Foundry v0.7.x. part of core now Core Settings > Left-Click to Release Objects: Checked
