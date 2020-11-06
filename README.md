@@ -4,21 +4,13 @@
 
 ![Bryan's Preferred FoundryVTT Modules](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-For-FoundryVTT/master/assets/Bryan's%20Preferred%20Modules%20for%20Foundry%20VTT%20-%20Title%20-%20On%20White.png)
 
-**2020 Oct 24 - Updated for Foundry 0.7.5** - Note, when updating from 0.6 to 0.7 download the installer from FoundryVTT instead of just clicking update in Foundry. This is because just [clicking update won't update the built in copy of Chrome and Electron](https://youtu.be/pVOmRAMKm4E?t=142), updating those can only be done by using the installer. The first time you run FoundryVTT, after updating you may need to hold down Option+Command and right click on the FoundryVTT icon before clicking "open" to force it to open and run.
-
 --
-
 
 My personally cultivated list of FoundryVTT Modules that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops; not everyone has a new computer. Collectively they set up a solid foundation for any D&D 5e and Pathfinder 2e campaign.
 
-# Quick Start Guide
-- Install [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) then import my latest settings here "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)"
-
-# Video Walkthrough
-This walkthrough shows the initial set up for creating a D&D 5e world. On FoundryVTT, the modules have already been added and it starts with us creating a new world and enabling the desired modules and then configuring them.
-
-- [D&D 5e FoundryVTT Set Up Walkthrough](https://d.pr/v/lwg9Xk) - There is no sound, play your own music :) This was done on FoundryVTT v0.6.x but the process is identical for v0.7.x
-  - 00:00 - 05:00 - Enabling and Configuring Modules
+# Quickstart Guide with Video Walkthrough
+- [D&D 5e FoundryVTT Quickstart Walkthrough](https://d.pr/v/tRq0a6) - There is no sound, play your own music :)
+- In the video you will see me create a new world, install [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) and then import my latest saved environment settings here "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)"
 
 # FoundryVTT Core Settings
 - Core Settings > Token Drag Vision: Checked
@@ -110,6 +102,9 @@ Once the above settings are put in place, the following will help you up your GM
 - Double click on window title bar - This will cause the title window to collapse (Screenshot: https://d.pr/v/P64OND)
 - Right click on the tab of the sidebar to pop it out (Screenshot: https://d.pr/v/OVcyYu)
 - Ping with Left Click, Shift + Left Click to move everyone's screen to your ping
+
+# Final Notes
+When updating from 0.6 to 0.7 download the installer from FoundryVTT instead of just clicking update in Foundry. This is because just [clicking update won't update the built in copy of Chrome and Electron](https://youtu.be/pVOmRAMKm4E?t=142), updating those can only be done by using the installer. The first time you run FoundryVTT, after updating you may need to hold down Option+Command and right click on the FoundryVTT icon before clicking "open" to force it to open and run.
   
 ## Modules In Review  
 - [Scene Transitions](https://foundryvtt.com/packages/scene-transitions/) - Adds the ability to create transitions to play before activating scene.
