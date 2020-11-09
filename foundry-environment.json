@@ -1,0 +1,213 @@
+{
+  "message": "List generated with Forien's Copy Environment: https://github.com/Forien/foundryvtt-forien-copy-environment",
+  "core": {
+    "version": "0.7.6"
+  },
+  "system": {
+    "id": "dnd5e",
+    "version": 0.99,
+    "author": "Atropos",
+    "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json"
+  },
+  "modules": [
+    {
+      "id": "CautiousGamemastersPack",
+      "version": "0.1.6",
+      "author": "Shoyu Vanilla",
+      "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-CGMP/master/module/module.json"
+    },
+    {
+      "id": "CommunityLighting",
+      "version": "0.3.1",
+      "author": "Blitzkraig",
+      "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-CommunityLighting/master/module.json"
+    },
+    {
+      "id": "ShowDragDistance",
+      "version": "2.2.3",
+      "manifest": "https://raw.githubusercontent.com/wsaunders1014/ShowDragDistance/master/module.json"
+    },
+    {
+      "id": "SoundBoard",
+      "version": "1.1.8",
+      "author": "Blitzkraig",
+      "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard/master/module.json"
+    },
+    {
+      "id": "adventure-import-export",
+      "version": "0.5.7",
+      "author": "Chris Stadther",
+      "manifest": "https://raw.githubusercontent.com/cstadther/adventure-import-export/master/module.json"
+    },
+    {
+      "id": "autocomplete-whisper",
+      "version": "0.3.0",
+      "author": "orcnog",
+      "manifest": "https://raw.githubusercontent.com/orcnog/autocomplete-whisper/master/module.json"
+    },
+    {
+      "id": "background-volume",
+      "version": "1.1.2",
+      "author": "Michael Volling",
+      "manifest": "https://raw.githubusercontent.com/mtvjr/background-volume/master/module.json"
+    },
+    {
+      "id": "bellows",
+      "version": "0.3.2",
+      "manifest": "https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json"
+    },
+    {
+      "id": "chat-portrait",
+      "version": "0.2.1",
+      "author": "Shoyu Vanilla",
+      "manifest": "https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait/releases/latest/download/module.json"
+    },
+    {
+      "id": "combat-enhancements",
+      "version": "0.1.3",
+      "author": "Asacolips",
+      "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json"
+    },
+    {
+      "id": "combatready",
+      "version": "1.1.10",
+      "author": "Shawn Milligan [n3rf_herder#9026]",
+      "manifest": "https://raw.githubusercontent.com/smilligan93/combatready/master/module.json"
+    },
+    {
+      "id": "custom-css",
+      "version": "1.2.1",
+      "author": "Bryan Casler <bryan.casler@gmail.com>",
+      "manifest": "https://raw.githubusercontent.com/bryancasler/FoundryVTT-Custom-CSS/master/module.json"
+    },
+    {
+      "id": "dice-so-nice",
+      "version": "3.1.1",
+      "author": "Simone, JDW",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+    },
+    {
+      "id": "forien-copy-environment",
+      "version": "1.1.1",
+      "author": "Forien — Forien#2130",
+      "manifest": "https://raw.githubusercontent.com/Forien/foundryvtt-forien-copy-environment/master/module.json"
+    },
+    {
+      "id": "foundryvtt-show-notes",
+      "version": "0.3",
+      "author": "KrishMero#1792",
+      "manifest": "https://github.com/shawndibble/foundryvtt-show-notes/raw/master/module.json"
+    },
+    {
+      "id": "fpsmeter",
+      "version": "1.0.1",
+      "author": "ardittristan#0001",
+      "manifest": "https://raw.githubusercontent.com/ardittristan/VTTFPSMeter/master/module.json"
+    },
+    {
+      "id": "fxmaster",
+      "version": "0.9.3",
+      "author": "U~man",
+      "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster/-/raw/master/module.json"
+    },
+    {
+      "id": "gm-notes",
+      "version": "0.3",
+      "author": "Felix#6196",
+      "manifest": "https://raw.githubusercontent.com/syl3r86/gm-notes/master/module.json"
+    },
+    {
+      "id": "illandril-chat-enhancements",
+      "version": "1.0.3",
+      "author": "Joe Spandrusyszyn",
+      "manifest": "https://github.com/illandril/FoundryVTT-chat-enhancements/releases/latest/download/module.json"
+    },
+    {
+      "id": "lootsheetnpc5e",
+      "version": "2.2.0",
+      "author": "Jan Ole Peek (ChalkOne), Charles Miller (Kage)",
+      "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json"
+    },
+    {
+      "id": "pings",
+      "version": "1.2.9",
+      "author": "Azzurite#2004",
+      "manifest": "https://gitlab.com/foundry-azzurite/pings/raw/master/src/module.json"
+    },
+    {
+      "id": "plutonium",
+      "version": "1.14.6",
+      "author": "Giddy",
+      "manifest": "https://get.5e.tools/plutonium/module.json"
+    },
+    {
+      "id": "polyglot",
+      "version": "1.3",
+      "author": [
+        "KaKaRoTo",
+        "elizeuangelo"
+      ],
+      "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-polyglot/master/module.json"
+    },
+    {
+      "id": "popout-resizer",
+      "version": "1.1",
+      "author": "cardagon",
+      "manifest": "https://raw.githubusercontent.com/Cardagon/popout-resizer/master/module.json"
+    },
+    {
+      "id": "quick-insert",
+      "version": "2.3.7",
+      "author": "Sunspots",
+      "manifest": "https://gitlab.com/fvtt-modules-lab/quick-insert/-/jobs/artifacts/master/raw/module.json?job=build-module"
+    },
+    {
+      "id": "tidy5e-sheet",
+      "version": "0.3.0",
+      "author": "sdenec#3813",
+      "manifest": "https://raw.githubusercontent.com/sdenec/tidy5e-sheet/master/module.json"
+    },
+    {
+      "id": "token-action-hud",
+      "version": "0.8.16",
+      "author": "^ and stick#0520",
+      "manifest": "https://github.com/espositos/fvtt-tokenactionhud/raw/master/module.json"
+    },
+    {
+      "id": "token-hud-wildcard",
+      "version": "1.2.0",
+      "author": "Javieros",
+      "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json"
+    },
+    {
+      "id": "token-info-icons",
+      "version": "2.0.1",
+      "author": "Jan Ole Peek (ChalkOne)",
+      "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-token-info-icons/master/module.json"
+    },
+    {
+      "id": "torch",
+      "version": "1.1.4",
+      "author": "Deuce",
+      "manifest": "https://raw.githubusercontent.com/RealDeuce/torch/master/module.json"
+    },
+    {
+      "id": "vance-sidebar-resizer",
+      "version": "0.0.2",
+      "author": "Vance Cole",
+      "manifest": "https://raw.githubusercontent.com/VanceCole/vance-sidebar-resizer/master/module.json"
+    },
+    {
+      "id": "vtta-tokenizer",
+      "version": "2.2.2",
+      "author": "Sebastian Will (vttassets@gmail.com), Jack (jack@mrprimate.co.uk",
+      "manifest": "https://github.com/mrprimate/vtta-tokenizer/releases/download/latest/module.json"
+    },
+    {
+      "id": "zoom-pan-options",
+      "version": "1.3.8",
+      "author": "shem",
+      "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/download/1.3.8/module.json"
+    }
+  ]
+}
