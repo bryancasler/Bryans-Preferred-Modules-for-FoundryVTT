@@ -67,6 +67,7 @@ in most parts of FoundryVTT. Find actors, items, spells etc. and insert them whe
   - Configure Settings (tab) > Module Settings > Disable Chat Recalls: Checked
 - [Combat Enhancements](https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements) - Improved initiatives tab with health tracking and drag and drop reordering.
 - [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) - Allows for copying TXT/JSON list of installed and enabled system/modules and their versions.
+  - Checkiut the ""foundry-environment.json"(https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-environment.json)" for an export of my latest environment.
   - Checkout the "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)" for an export of my latest settings.
 - [FPS Meter](https://github.com/ardittristan/VTTFPSMeter) - OPTIONAL: Adds an FPS meter, used for testing and performance debugging.
 - [GM Notes](https://foundryvtt.com/packages/gm-notes/) - Add GM-Only notes to entities (Actor, Items (including owned items), RollTable, and JournalEntry).
