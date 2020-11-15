@@ -9,7 +9,7 @@ My personally cultivated list of FoundryVTT Modules that play nicely together wi
 
 # Quickstart Guide with Video Walkthrough
 - [D&D 5e FoundryVTT Quickstart Walkthrough](https://d.pr/v/tRq0a6) - There is no sound, play your own music :)
-- In this 90 second video you will see me create a new world, install [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) and then import my latest environment "[foundry-environment.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-environment.json)" and environment settings here "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)". This will install all the modules listed below with their preferred settings and configurations. Great to use as a starting point from which you can then modify with your own preferences.
+- The following set-up pre-supposes you have downloaded all the modules listed in this guide, there is no way to automate that step. In this 90 second video you will see me create a new world, install [Forien's Copy Environment](https://foundryvtt.com/packages/forien-copy-environment/) and then import my latest environment settings here "[foundry-settings-export.json](https://raw.githubusercontent.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/master/foundry-settings-export.json)". This will update all the modules with my preferred settings and configurations. Great to use as a starting point from which you can then modify with your own preferences.
 
 # FoundryVTT Core Settings
 - Core Settings > Token Drag Vision: Checked
