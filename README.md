@@ -113,6 +113,7 @@ When updating from 0.6 to 0.7 download the installer from FoundryVTT instead of 
 - [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
 - [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the apperance of D&D 5e monster statblocks.
 - [FoundryVTT - Forien's Copy Environment](https://github.com/Forien/foundryvtt-forien-copy-environment) - This module allows for fast copy/save environment data such as core version or list of installed modules and their versions. Supports copying as TXT or saving as JSON.
+- [Bubble Rolls](https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls) - Display Actor Rolls in Chat Bubbles.
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
