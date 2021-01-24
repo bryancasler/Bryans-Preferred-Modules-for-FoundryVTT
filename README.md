@@ -114,6 +114,10 @@ When updating from 0.6 to 0.7 download the installer from FoundryVTT instead of 
 - [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the apperance of D&D 5e monster statblocks.
 - [FoundryVTT - Forien's Copy Environment](https://github.com/Forien/foundryvtt-forien-copy-environment) - This module allows for fast copy/save environment data such as core version or list of installed modules and their versions. Supports copying as TXT or saving as JSON.
 - [Bubble Rolls](https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls) - Display Actor Rolls in Chat Bubbles.
+- [Always HP](https://github.com/ironmonk88/always-hp) - HP Toolbar for quick adjustments
+- [Active Auras](https://github.com/kandashi/Active-Auras) - Automatically apply aura effects to targets within range
+- [Let's Trade 5e](https://github.com/KageJittai/lets-trade-5e) - Lets players trade items and currency
+- [Monk's Token Bar](https://github.com/ironmonk88/monks-tokenbar) - Show the current player tokens, and their AC/Perception, that are available on the current scene
 
 ## Modules Scheduled for a Re-Review at a Later Date
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
