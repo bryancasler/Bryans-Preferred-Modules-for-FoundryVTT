@@ -8,6 +8,10 @@
     "value": "\"/* Fade Trac text at the end of the row and ensure its width never exceeds what's possible */\\n#playlists li.sound .sound-name{\\n    background-image: linear-gradient(90deg,#ffffff 92.5%,rgba(0,0,0,0));\\n    -webkit-background-clip: text;\\n    -webkit-text-fill-color: transparent;\\n    max-width: calc(100% - 152px);\\n}\""
   },
   {
+    "key": "quick-insert.indexDeferredDelay",
+    "value": "\"1000\""
+  },
+  {
     "key": "combat-enhancements.showHpForType",
     "value": "\"\""
   },
@@ -37,7 +41,11 @@
   },
   {
     "key": "dnd5e.systemMigrationVersion",
-    "value": "0.99"
+    "value": "\"1.2.4\""
+  },
+  {
+    "key": "fxmaster.specialEffects",
+    "value": "[]"
   },
   {
     "key": "quick-insert.filtersWorld",
@@ -49,7 +57,7 @@
   },
   {
     "key": "combatready.timeractive",
-    "value": "true"
+    "value": "false"
   },
   {
     "key": "core.time",
@@ -113,7 +121,7 @@
   },
   {
     "key": "core.moduleConfiguration",
-    "value": "{\"plutonium\":true,\"quick-insert\":true,\"fpsmeter\":true,\"deselection\":false,\"CautiousGamemastersPack\":true,\"ShowDragDistance\":true,\"actually-private-rolls\":false,\"autocomplete-whisper\":true,\"chat-portrait\":true,\"combat-enhancements\":true,\"combatready\":true,\"dice-so-nice\":true,\"illandril-chat-enhancements\":true,\"polyglot\":true,\"token-action-hud\":true,\"token-info-icons\":true,\"vtta-tokenizer\":true,\"zoom-pan-options\":true,\"pings\":true,\"background-volume\":true,\"foundryvtt-show-notes\":true,\"fxmaster\":true,\"gm-notes\":true,\"torch\":true,\"tidy5e-sheet\":true,\"dragupload\":false,\"lootsheetnpc5e\":true,\"token-hud-wildcard\":true,\"SoundBoard\":true,\"CommunityLighting\":true,\"adventure-import-export\":true,\"bellows\":true,\"popout-resizer\":true,\"vance-sidebar-resizer\":true,\"tweakplaylist\":false,\"custom-css\":true,\"_mathjs\":false,\"forien-copy-environment\":true,\"monsterblock\":false}"
+    "value": "{\"plutonium\":true,\"quick-insert\":true,\"fpsmeter\":true,\"deselection\":false,\"CautiousGamemastersPack\":true,\"ShowDragDistance\":true,\"actually-private-rolls\":false,\"autocomplete-whisper\":true,\"chat-portrait\":true,\"combat-enhancements\":true,\"combatready\":true,\"dice-so-nice\":true,\"illandril-chat-enhancements\":true,\"polyglot\":true,\"token-action-hud\":true,\"token-info-icons\":true,\"vtta-tokenizer\":true,\"zoom-pan-options\":true,\"pings\":true,\"background-volume\":true,\"foundryvtt-show-notes\":true,\"fxmaster\":true,\"gm-notes\":true,\"torch\":true,\"tidy5e-sheet\":true,\"dragupload\":false,\"lootsheetnpc5e\":true,\"token-hud-wildcard\":true,\"SoundBoard\":true,\"CommunityLighting\":true,\"adventure-import-export\":true,\"bellows\":true,\"popout-resizer\":true,\"vance-sidebar-resizer\":true,\"tweakplaylist\":false,\"custom-css\":true,\"_mathjs\":false,\"forien-copy-environment\":true,\"monsterblock\":false,\"roofs\":false,\"searchanywhere\":false}"
   },
   {
     "key": "SoundBoard.soundboardServerVolume",
@@ -137,7 +145,7 @@
   },
   {
     "key": "plutonium.config",
-    "value": "{\"actor\":{\"isShowPopout\":false,\"isAutoMultiattack\":false},\"artBrowser\":{\"importImagesAs\":1,\"scale\":1,\"tokenSize\":1,\"artDirectoryPath\":\"assets/art\",\"buttonDisplay\":{\"0\":true,\"1\":true,\"2\":true,\"3\":true}},\"import\":{\"isAddSourceToName\":false,\"isAddPageNumberToSource\":false,\"isRendererLinksDisabled\":false,\"baseSiteUrl\":null,\"isNoLocalData\":false,\"isUseLocalImages\":false,\"isStrictMatching\":false,\"deduplicationMode\":0},\"importAdventure\":{\"permissions\":-1,\"indexUrl\":\"https://foundry.5e.tools/plutonium/index.json\"},\"importBackground\":{\"permissions\":-1,\"isImportDescription\":true},\"importBook\":{\"permissions\":-1},\"importClass\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.classes\",\"imgCompendiumFeatures\":\"dnd5e.classfeatures\",\"isImportDescription\":true},\"importConditionDisease\":{\"permissions\":-1,\"isImportDescription\":true},\"importCreature\":{\"permissions\":-1,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenIsAddVision\":true,\"itemWeightAndValueSizeScaling\":1,\"spellcastingPrimaryTraitMode\":1,\"imgCompendium\":\"dnd5e.monsters\",\"isImportBio\":true},\"importFeat\":{\"permissions\":-1,\"isImportDescription\":true},\"importItem\":{\"permissions\":-1,\"isMetric\":false,\"isSplitPacksActor\":true,\"imgCompendium\":\"dnd5e.items, dnd5e.tradegoods\",\"isImportDescription\":true},\"importOptionalFeature\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.classfeatures\",\"isImportDescription\":true},\"importPsionic\":{\"permissions\":-1,\"isImportDescription\":true},\"importRace\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.races\",\"imgCompendiumFeatures\":\"dnd5e.races\",\"isImportDescription\":true},\"importRule\":{\"permissions\":-1},\"importSpell\":{\"permissions\":-1,\"prepareActorSpells\":true,\"prepareSpellItems\":false,\"actorSpellPreparationMode\":\"prepared\",\"spellItemPreparationMode\":\"prepared\",\"isMetric\":false,\"imgCompendium\":\"dnd5e.spells\",\"isImportDescription\":true},\"importTable\":{\"permissions\":-1},\"importVehicle\":{\"permissions\":-1,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenIsAddVision\":true,\"imgCompendium\":\"\",\"isImportBio\":true},\"journalEntries\":{\"isEnableUrlEmbeds\":false,\"isEnableContentEmbeds\":false,\"isAutoExpandContentEmbeds\":true},\"misc\":{\"isSkipBackendCheck\":false},\"rivet\":{\"targetActorId\":\"\"},\"tokens\":{\"isDisplayDamageDealt\":false,\"isFastAnimations\":false},\"tools\":{\"isDeduplicateIgnoreType\":false},\"ui\":{\"isStreamerMode\":false,\"isCompactWindowBar\":true,\"isCompactScenes\":true,\"isCompactActors\":true,\"isCompactItems\":true,\"isCompactJournal\":true,\"isCompactTables\":true,\"isNameTabFromScene\":true,\"tabNameSuffix\":null,\"isDisplayBackendStatus\":true,\"isDisableLargeImportWarning\":true,\"isFastAnimations\":false,\"isFixEscapeKey\":false,\"isFixDrawingFreehandMinDistance\":false,\"isShowPopout\":true,\"isCompactDirectoryButtons\":true,\"isHidePlutoniumDirectoryButtons\":false}}"
+    "value": "{\"actor\":{\"isShowPopout\":false,\"isAutoMultiattack\":false},\"artBrowser\":{\"importImagesAs\":1,\"scale\":1,\"tokenSize\":1,\"artDirectoryPath\":\"assets/art\",\"buttonDisplay\":{\"0\":true,\"1\":true,\"2\":true,\"3\":true}},\"import\":{\"isAddSourceToName\":false,\"isAddPageNumberToSource\":false,\"isRendererLinksDisabled\":false,\"baseSiteUrl\":null,\"isNoLocalData\":false,\"isUseLocalImages\":false,\"isStrictMatching\":false,\"deduplicationMode\":0,\"minimumRole\":0,\"dragDropMode\":1,\"isUseOtherFormulaFieldForSaveHalvesDamage\":false},\"importAdventure\":{\"permissions\":-1,\"indexUrl\":\"https://foundry.5e.tools/plutonium/index.json\",\"isUseModdedInstaller\":true},\"importBackground\":{\"permissions\":-1,\"isImportDescription\":true},\"importBook\":{\"permissions\":-1},\"importClass\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.classes\",\"imgCompendiumFeatures\":\"dnd5e.classfeatures\",\"isImportDescription\":true},\"importConditionDisease\":{\"permissions\":-1,\"isImportDescription\":true},\"importCreature\":{\"permissions\":-1,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenIsAddVision\":true,\"itemWeightAndValueSizeScaling\":1,\"spellcastingPrimaryTraitMode\":1,\"imgCompendium\":\"dnd5e.monsters\",\"isImportBio\":true,\"imgCompendiumFeatures\":\"dnd5e.monsterfeatures\",\"isUseTokenImageAsPortrait\":false},\"importFeat\":{\"permissions\":-1,\"isImportDescription\":true},\"importItem\":{\"permissions\":-1,\"isMetric\":false,\"isSplitPacksActor\":true,\"imgCompendium\":\"dnd5e.items, dnd5e.tradegoods\",\"isImportDescription\":true,\"throwablesX\":[\"Handaxe\",\"Javelin\",\"Light Hammer\",\"Dart\",\"Net\"],\"throwables\":[\"Handaxe\",\"Javelin\",\"Light Hammer\",\"Dart\",\"Net\"]},\"importOptionalFeature\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.classfeatures\",\"isImportDescription\":true},\"importPsionic\":{\"permissions\":-1,\"isImportDescription\":true},\"importRace\":{\"permissions\":-1,\"imgCompendium\":\"dnd5e.races\",\"imgCompendiumFeatures\":\"dnd5e.races\",\"isImportDescription\":true},\"importRule\":{\"permissions\":-1},\"importSpell\":{\"permissions\":-1,\"prepareActorSpells\":true,\"prepareSpellItems\":false,\"actorSpellPreparationMode\":\"prepared\",\"spellItemPreparationMode\":\"prepared\",\"isMetric\":false,\"imgCompendium\":\"dnd5e.spells\",\"isImportDescription\":true},\"importTable\":{\"permissions\":-1},\"importVehicle\":{\"permissions\":-1,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenIsAddVision\":true,\"imgCompendium\":\"\",\"isImportBio\":true,\"isUseTokenImageAsPortrait\":false},\"journalEntries\":{\"isEnableUrlEmbeds\":false,\"isEnableContentEmbeds\":false,\"isAutoExpandContentEmbeds\":true},\"misc\":{\"isSkipBackendCheck\":false},\"rivet\":{\"targetActorId\":\"\"},\"tokens\":{\"isDisplayDamageDealt\":false,\"isFastAnimations\":false},\"tools\":{\"isDeduplicateIgnoreType\":false},\"ui\":{\"isStreamerMode\":false,\"isCompactWindowBar\":true,\"isCompactScenes\":true,\"isCompactActors\":true,\"isCompactItems\":true,\"isCompactJournal\":true,\"isCompactTables\":true,\"isNameTabFromScene\":true,\"tabNameSuffix\":null,\"isDisplayBackendStatus\":true,\"isDisableLargeImportWarning\":true,\"isFastAnimations\":false,\"isFixEscapeKey\":false,\"isFixDrawingFreehandMinDistance\":false,\"isShowPopout\":true,\"isCompactDirectoryButtons\":true,\"isHidePlutoniumDirectoryButtons\":false,\"isCompactChat\":true},\"equipmentShop\":{\"minimumRole\":0}}"
   },
   {
     "key": "vtta-tokenizer.image-upload-directory",
@@ -146,5 +154,9 @@
   {
     "key": "quick-insert.indexingDisabled",
     "value": "{\"entities\":{\"Macro\":[1,2],\"RollTable\":[1,2],\"Scene\":[1,2]},\"packs\":{\"dnd5e.heroes\":[1,2,3,4],\"dnd5e.monsters\":[1,2,3,4],\"dnd5e.items\":[1,2,3,4],\"dnd5e.spells\":[1,2,3,4],\"dnd5e.classes\":[1,2,3,4],\"dnd5e.classfeatures\":[1,2,3,4],\"dnd5e.races\":[1,2,3,4],\"dnd5e.monsterfeatures\":[1,2,3,4],\"dnd5e.rules\":[1,2,3,4]}}"
+  },
+  {
+    "key": "fxmaster.migration",
+    "value": "1"
   }
 ]
