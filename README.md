@@ -110,6 +110,7 @@ When updating from 0.6 to 0.7 download the installer from FoundryVTT instead of 
 - [Scene Transitions](https://foundryvtt.com/packages/scene-transitions/) - Adds the ability to create transitions to play before activating scene.
 
 ## Modules Pending Review
+- [DF Scene Enhancements](https://foundryvtt.com/packages/df-scene-enhance/) - Will replace QuickSceneView - Module creator requested I look into it [Issue #3](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/issues/3)
 - [Dr. Mapzo free maps (unofficial)](https://foundryvtt.com/packages/foundry-drmapzo-free/) - Unofficial preparation of Dr. Mapzo's free maps for use as Scenes. Most/all of these have built-in support for the Dancing Lights and Wall Height modules.
 - [Monster Blocks](https://foundryvtt.com/packages/monsterblock/) - An NPC sheet for FoundryVTT designed to faithfully reproduce the apperance of D&D 5e monster statblocks.
 - [FoundryVTT - Forien's Copy Environment](https://github.com/Forien/foundryvtt-forien-copy-environment) - This module allows for fast copy/save environment data such as core version or list of installed modules and their versions. Supports copying as TXT or saving as JSON.
@@ -120,7 +121,6 @@ When updating from 0.6 to 0.7 download the installer from FoundryVTT instead of 
 - [Monk's Token Bar](https://github.com/ironmonk88/monks-tokenbar) - Show the current player tokens, and their AC/Perception, that are available on the current scene
 
 ## Modules Scheduled for a Re-Review at a Later Date
-- [DF Scene Enhancements](https://foundryvtt.com/packages/df-scene-enhance/) - Will replace QuickSceneView - Module creator requested I look into it [Issue #3](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT/issues/3)
 - [Chat Images](https://github.com/bmarian/chat-images) - Copy and Paste, Drag and Drop images into chat. - Retired 2020 Sep 06 - See issue linked below
   - This Module inserts images as base64 encoded data which can grow the chat log to the point it can start to impact gameplay (https://github.com/bmarian/chat-images/issues/7). This could cause large base64 encoded images to be inserted (e.g. 24mb) every time a chat message is posted. Whereas normal images will be resized, compressed, and cached by the browser. - Flagged by an Anonymous user on The Forge Discord
 - [Compendium Browser](https://foundryvtt.com/packages/compendium-browser/) - Easily browse and filter spells as well as NPCs loaded from the compendium. - Review 2020 Sep 06 - Seems incredibly useful but there is currently an issue with Shared compendiums that can crash a game (https://github.com/syl3r86/compendium-browser/issues/13). Will revisit once it's had time to stew some more.
